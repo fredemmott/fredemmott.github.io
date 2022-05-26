@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Shapes, TypeAssert, and JSON APIs"
-date:   2017-01-06 06:20:30 -0800
+date:   2017-01-06 20:30:00 -0800
 categories: hack
 redirect_from:
   - /blog/posts/shapes-typeassert-and-json-apis
