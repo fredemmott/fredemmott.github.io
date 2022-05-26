@@ -3,6 +3,8 @@ layout: post
 title:  "Greenfield Projects with Hack"
 date:   2016-10-28 18:30:00 -0500
 categories: hack
+redirect_from:
+  - /blog/posts/greenfield-projects-with-hack
 ---
 
 Until late 2015, the [Hack and HHVM documentation](https://docs.hhvm.com)
