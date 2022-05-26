@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fred Emmott: Contact Info
+title: Contact Information
 permalink: /contactme
 ---
 

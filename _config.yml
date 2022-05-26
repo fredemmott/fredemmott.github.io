@@ -32,7 +32,13 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+show_excerpts: true
 excerpt_separator: <!--more-->
+header_pages:
+  - index.markdown
+  - bio.markdown
+  - contactme.markdown
+  - ontheweb.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.

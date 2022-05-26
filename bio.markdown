@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fred Emmott: Bio
+title: Bio
 permalink: /bio
 ---
 

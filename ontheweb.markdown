@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fred Emmott: On The Web
+title: On The Web
 permalink: /ontheweb
 ---
 
