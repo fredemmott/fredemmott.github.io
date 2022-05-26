@@ -1,11 +1,18 @@
 ---
 layout: post
 title:  "Greenfield Projects with Hack"
-date:   2016-10-28 18:30:00 -0500
+date:   2016-10-28 18:30:00 -0800
 categories: hack
 redirect_from:
   - /blog/posts/greenfield-projects-with-hack
 ---
+
+Hack's documentation and marketing is largely focused on how easy it
+is to migrate an existing PHP project; while this is a unique
+advantage of Hack, there isn't much guidance on how new projects
+should be designed.
+
+<!--more-->
 
 Until late 2015, the [Hack and HHVM documentation](https://docs.hhvm.com)
 site was a fork of [PHP's own documentation site](https://docs.php.net). This had
