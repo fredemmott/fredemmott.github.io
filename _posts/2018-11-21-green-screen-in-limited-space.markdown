@@ -2,7 +2,7 @@
 layout: post
 title:  "Green Screens in Limited Space"
 date:   2018-11-21 15:55:00 -0800
-categories: streaming
+tags: streaming
 redirect_from:
   - /blog/posts/green-screens-in-limited-space
 ---

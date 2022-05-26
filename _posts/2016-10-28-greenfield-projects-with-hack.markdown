@@ -2,7 +2,7 @@
 layout: post
 title:  "Greenfield Projects with Hack"
 date:   2016-10-28 18:30:00 -0800
-categories: hack
+tags: hack
 redirect_from:
   - /blog/posts/greenfield-projects-with-hack
 ---
