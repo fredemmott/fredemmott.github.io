@@ -4,7 +4,7 @@ title:  "Shapes, TypeAssert, and JSON APIs"
 date:   2017-01-06 06:20:30 -0800
 categories: hack
 redirect_from:
-  - /blog/posts/greenfield-projects-with-hack
+  - /blog/posts/shapes-typeassert-and-json-apis
 ---
 
 Hack includes a kind of data structure called shapes; shapes are a collection
