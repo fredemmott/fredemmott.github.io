@@ -4,7 +4,7 @@ title:  "Green Screens in Limited Space"
 date:   2018-11-21 15:55:00 -0800
 categories: streaming
 redirect_from:
-  - /blog/posts/green-screen-in-limited-space
+  - /blog/posts/green-screens-in-limited-space
 ---
 
 I started streaming Overwatch, and I became picky about the quality of
