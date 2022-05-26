@@ -4,9 +4,9 @@ title: Fred Emmott: Contact Info
 permalink: /contactme
 ---
 
-* [https://fb.me/fe](Facebook) is best if we already know each other
-* I'm also [https://twitter.com/fredemmott](on Twitter)
-* Finally, I can be reached via email at [mailto:fred@fredemmott.com](fred@fredemmott.com)
+* [Facebook](https://fb.me/fe) is best if we already know each other
+* I'm also [on Twitter](https://www.twitter.com/fredemmott)
+* Finally, I can be reached via email at [fred@fredemmott.com](mailto:fred@fredemmott.com)
 
 ## Help with my personal projects
 
