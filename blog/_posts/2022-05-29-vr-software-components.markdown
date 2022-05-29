@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VR Software Components"
+title:  "An Overview of VR Software Components"
 date: 2022-05-29 11:54:00 -0500
 tags: VR
 ---
