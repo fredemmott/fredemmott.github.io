@@ -81,7 +81,7 @@ the Oculus API or OpenVR - the engine handles the basics for them after they cli
 make their own engine or don't have it as a separate component at all, they will need to build all VR support
 from the ground up.
 
-That said, even when using an off-the-shelf engine, games often go beyond the engine-provided features to provide
+Even when using an off-the-shelf engine, games often go beyond the engine-provided features to provide
 a better or more immersive user experience; for example:
 
 * it can be jarring to see [HTC Vive] controllers in your hands in game when you are using a [Meta Quest] or
@@ -111,7 +111,7 @@ equivalent of the Oculus API. While the OpenVR banner also includes a hardware a
 OpenVR games to work with hardware from multiple manufactures, this is a separate layer - the 'OpenVR Drivers'
 layer - with SteamVR still sitting in the middle.
 
-That said, while SteamVR was always in the middle, game developers could - and often did - choose to use OpenVR,
+While SteamVR was always in the middle, game developers could - and often did - choose to use OpenVR,
 as the OpenVR+SteamVR combination makes it relatively straightforward to provide basic support for most
 manufacturer's headsets, without having to write separate code for each manufacturer.
 
