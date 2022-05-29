@@ -21,7 +21,7 @@
 title: Fred Emmott
 email: fred@fredemmott.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Fred, a software engineer in Texas.
+  A software engineer in Texas; I work on programming languages and runtimes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fredemmott
