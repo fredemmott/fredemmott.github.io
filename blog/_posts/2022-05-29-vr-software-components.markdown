@@ -140,14 +140,14 @@ SteamVR-compatible headsets by translating the Oculus API to OpenVR:
 
 While this wasn't necessary for OpenVR games to work on Oculus headsets, many users found that it provided a
 more reliable or more performant experience than using SteamVR. This continued with OpenComposite-ACC, which
-is now part of the main OpenComposite project: while OpenComposite historically translated between OpenVR and the Oculus API, OpenComposite-ACC added support for translating between OpenVR and OpenXR: as headset vendors
+is now part of the main OpenComposite project: while OpenComposite historically translated between OpenVR and the Oculus API, OpenComposite-ACC added support for translating between OpenVR and OpenXR. As headset vendors
 increasingly support OpenXR themselves, this allows removing SteamVR from the path for more headsets, such
 as the [HP Reverb G2]:
 
 ![Game -> OpenVR -> OpenComposite -> OpenXR -> Windows Holographic API -> WMR -> WMR Headsets](/assets/images/2022-05-vr/opencomposite-openxr.svg)
 
 While this looks like the same number of layers,
-translating between APIs can be relatively easy for your CPU compared to SteamVR; that said, while most users
+translating between APIs can be relatively easy for your CPU/GPU compared to SteamVR; that said, while most users
 of OpenComposite+OpenXR report higher or more consistent framerates, this is not universal.
 
 ### Should Quest/Rift owners use OpenComposite+OpenXR?
@@ -176,12 +176,12 @@ layer, but can be more complicated - e.g.:
 Some layers like the 'world view' provide an image for each eye, while others provide a shape (e.g. 'rectangle'
 or 'curved rectangle'), an image, and position information. For example, menus are often curved rectangles
 displayed at a specific position. A compositor's primary purpose is to merge these layers into a single image
-for each eye; ideally, this will then be sent to the headset as directly as possible.
+for each eye. Ideally, this will then be sent to the headset as directly as possible.
 
 The runtime and compositor are usually bundled together, and can usually be thought of as a single thing; however,
-for SteamVR, it can be important: "OpenVR Drivers" can be thought of as a second API translation layer, though
-for SteamVR itself, rather than for games. OpenVR drivers (i.e. hardware vendors) can choose whether or not the
-SteamVR compositor is used - there are a few possible paths:
+for SteamVR, the difference can be significant: "OpenVR Drivers" can be thought of as a second API translation
+layer, though for SteamVR itself, rather than for games. OpenVR drivers (i.e. hardware vendors) can choose
+whether or not the SteamVR compositor is used - there are a few possible paths:
 
 ![OpenVR drivers can use the SteamVR compositor, a vendor compositor, or both](/assets/images/2022-05-vr/openvr-driver-types.svg)
 
@@ -205,10 +205,11 @@ other SteamVR-compatible headsets - it's just a matter of how they chose to pack
 
 * OpenVR is primarily an API for SteamVR
 * OpenXR is a similar API supported by multiple vendors
-* OpenComposite is a translation layer between OpenVR and the Oculus API, or OpenVR and OpenXR
+* OpenComposite is a translation layer between OpenVR and either the Oculus API or OpenXR
 * OpenComposite-ACC was the previous name for OpenComposite's OpenXR support
 * OpenXR does not include a compositor, and you can not install 'the OpenXR compositor'
-* Many vendors - including Valve and Oculus - provide an OpenXR-compatible compositor
+* 'The' OpenXR compositor isn't a thing: many vendors - including Valve and Oculus - provide an
+  OpenXR-compatible compositor
 * OpenComposite is not a compositor
 
 ### OpenXR, OpenComposite, and OpenXR Toolkit
