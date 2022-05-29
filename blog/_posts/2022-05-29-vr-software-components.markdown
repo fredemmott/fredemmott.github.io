@@ -130,7 +130,7 @@ needs a translator; similarly, a game that only supports the Oculus API is unabl
 without a translator.
 
 [Revive] was one of the first of these, allowing games designed for the Oculus headsets to work with most
-SteamVR-compatible headsets, but translating the Oculus API to OpenVR:
+SteamVR-compatible headsets by translating the Oculus API to OpenVR:
 
 ![Game -> Oculus API -> Revive -> OpenVR -> SteamVR -> ... -> HTC Vive](/assets/images/2022-05-vr/revive.svg)
 
