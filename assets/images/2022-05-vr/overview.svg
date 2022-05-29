@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-657 -229 1858 1055" width="1858" height="1055">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -2 5 4" markerWidth="5" markerHeight="4" color="#a5a5a5">
+      <g>
+        <path d="M 2.24 0 L 0 -.84 L 0 .84 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="APIs_subsystems" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>APIs/subsystems</title>
+    <rect fill="white" x="-657" y="-229" width="1858" height="1055"/>
+    <g id="APIs_subsystems_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_125">
+        <path d="M -525 -226 L 865.3147 -226 C 891.8244 -226 913.3147 -204.50967 913.3147 -178 L 913.3147 -98 C 913.3147 -71.49033 891.8244 -50 865.3147 -50 L -525 -50 C -551.5097 -50 -573 -71.49033 -573 -98 L -573 -178 C -573 -204.50967 -551.5097 -226 -525 -226 Z" stroke="#942092" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <text transform="translate(-549 -157.46411)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="32" fill="black" x="0" y="31">Application/Game</tspan>
+        </text>
+      </g>
+      <g id="Graphic_128">
+        <path d="M -532 80 L 1139 80 C 1161.6437 80 1180 98.35633 1180 121 L 1180 121 C 1180 143.64367 1161.6437 162 1139 162 L -532 162 C -554.6437 162 -573 143.64367 -573 121 L -573 121 C -573 98.35633 -554.6437 80 -532 80 Z" stroke="#ff9300" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <text transform="translate(-549 101.53589)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="32" fill="black" x="0" y="31">API</tspan>
+        </text>
+      </g>
+      <g id="Graphic_129">
+        <path d="M -532 186 L 431 186 C 453.6437 186 472 204.35633 472 227 L 472 227 C 472 249.64367 453.6437 268 431 268 L -532 268 C -554.6437 268 -573 249.64367 -573 227 L -573 227 C -573 204.35633 -554.6437 186 -532 186 Z" stroke="#0432ff" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <text transform="translate(-549 207.5359)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="32" fill="black" x="0" y="31">API Translation</tspan>
+        </text>
+      </g>
+      <g id="Graphic_130">
+        <path d="M -527.3125 394 L 1107.5 394 C 1134.0097 394 1155.5 415.49033 1155.5 442 L 1155.5 522 C 1155.5 548.5097 1134.0097 570 1107.5 570 L -527.3125 570 C -553.8222 570 -575.3125 548.5097 -575.3125 522 L -575.3125 442 C -575.3125 415.49033 -553.8222 394 -527.3125 394 Z" stroke="#ab7942" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <text transform="translate(-551.3125 462.5359)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="32" fill="black" x="0" y="31">Runtime/Compositor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <path d="M -75.3125 421 L .6875 421 C 7.314917 421 12.6875 426.3726 12.6875 433 L 12.6875 459 C 12.6875 465.6274 7.314917 471 .6875 471 L -75.3125 471 C -81.93992 471 -87.3125 465.6274 -87.3125 459 L -87.3125 433 C -87.3125 426.3726 -81.93992 421 -75.3125 421 Z" fill="white"/>
+        <path d="M -75.3125 421 L .6875 421 C 7.314917 421 12.6875 426.3726 12.6875 433 L 12.6875 459 C 12.6875 465.6274 7.314917 471 .6875 471 L -75.3125 471 C -81.93992 471 -87.3125 465.6274 -87.3125 459 L -87.3125 433 C -87.3125 426.3726 -81.93992 421 -75.3125 421 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-82.3125 436.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.512" y="15">SteamVR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_133">
+        <path d="M -528.8125 730 L 1150.5 730 C 1176.1812 730 1197 750.8188 1197 776.5 L 1197 776.5 C 1197 802.1812 1176.1812 823 1150.5 823 L -528.8125 823 C -554.49374 823 -575.3125 802.1812 -575.3125 776.5 L -575.3125 776.5 C -575.3125 750.8188 -554.49374 730 -528.8125 730 Z" stroke="#ff2600" stroke-opacity=".5" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+        <text transform="translate(-551.3125 757.0359)" fill="black">
+          <tspan font-family="Helvetica Neue" font-weight="bold" font-size="32" fill="black" x="0" y="31">Hardware</tspan>
+        </text>
+      </g>
+      <g id="Line_108">
+        <line x1="473.7428" y1="148" x2="442.5757" y2="193.81453" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_67">
+        <line x1="434.9476" y1="-162" x2="697.6731" y2="91.13103" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_62">
+        <line x1="459" y1="-174.87038" x2="685.07646" y2="-120.02594" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <path d="M 371 -212 L 447 -212 C 453.6274 -212 459 -206.62742 459 -200 L 459 -174 C 459 -167.37258 453.6274 -162 447 -162 L 371 -162 C 364.3726 -162 359 -167.37258 359 -174 L 359 -200 C 359 -206.62742 364.3726 -212 371 -212 Z" fill="white"/>
+        <path d="M 371 -212 L 447 -212 C 453.6274 -212 459 -206.62742 459 -200 L 459 -174 C 459 -167.37258 453.6274 -162 447 -162 L 371 -162 C 364.3726 -162 359 -167.37258 359 -174 L 359 -200 C 359 -206.62742 364.3726 -212 371 -212 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(364 -196.224)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="23.512" y="15">Game</tspan>
+        </text>
+      </g>
+      <g id="Graphic_83">
+        <path d="M 843 751.5 L 963.5 751.5 C 970.1274 751.5 975.5 756.8726 975.5 763.5 L 975.5 789.5 C 975.5 796.1274 970.1274 801.5 963.5 801.5 L 843 801.5 C 836.3726 801.5 831 796.1274 831 789.5 L 831 763.5 C 831 756.8726 836.3726 751.5 843 751.5 Z" fill="white"/>
+        <path d="M 843 751.5 L 963.5 751.5 C 970.1274 751.5 975.5 756.8726 975.5 763.5 L 975.5 789.5 C 975.5 796.1274 970.1274 801.5 963.5 801.5 L 843 801.5 C 836.3726 801.5 831 796.1274 831 789.5 L 831 763.5 C 831 756.8726 836.3726 751.5 843 751.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(836 767.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="8.874" y="15">Pimax Headsets</tspan>
+        </text>
+      </g>
+      <g id="Graphic_79">
+        <path d="M 1032 98 L 1143.5 98 C 1150.1274 98 1155.5 103.37258 1155.5 110 L 1155.5 136 C 1155.5 142.62742 1150.1274 148 1143.5 148 L 1032 148 C 1025.3726 148 1020 142.62742 1020 136 L 1020 110 C 1020 103.37258 1025.3726 98 1032 98 Z" fill="white"/>
+        <path d="M 1032 98 L 1143.5 98 C 1150.1274 98 1155.5 103.37258 1155.5 110 L 1155.5 136 C 1155.5 142.62742 1150.1274 148 1143.5 148 L 1032 148 C 1025.3726 148 1020 142.62742 1020 136 L 1020 110 C 1020 103.37258 1025.3726 98 1032 98 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1025 104.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="29.718" y="15">Windows </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="4.534" y="33.448">Holographic API</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <path d="M -124.0625 496 L 49.4375 496 C 56.06492 496 61.4375 501.3726 61.4375 508 L 61.4375 534 C 61.4375 540.6274 56.06492 546 49.4375 546 L -124.0625 546 C -130.68992 546 -136.0625 540.6274 -136.0625 534 L -136.0625 508 C -136.0625 501.3726 -130.68992 496 -124.0625 496 Z" fill="white"/>
+        <path d="M -124.0625 496 L 49.4375 496 C 56.06492 496 61.4375 501.3726 61.4375 508 L 61.4375 534 C 61.4375 540.6274 56.06492 546 49.4375 546 L -124.0625 546 C -130.68992 546 -136.0625 540.6274 -136.0625 534 L -136.0625 508 C -136.0625 501.3726 -130.68992 496 -124.0625 496 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-131.0625 502.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="36.558" y="15">OpenVR Drivers</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="10.774" y="33.448">e.g. WMR for SteamVR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <path d="M 430.5 751.5 L 551 751.5 C 557.6274 751.5 563 756.8726 563 763.5 L 563 789.5 C 563 796.1274 557.6274 801.5 551 801.5 L 430.5 801.5 C 423.8726 801.5 418.5 796.1274 418.5 789.5 L 418.5 763.5 C 418.5 756.8726 423.8726 751.5 430.5 751.5 Z" fill="white"/>
+        <path d="M 430.5 751.5 L 551 751.5 C 557.6274 751.5 563 756.8726 563 763.5 L 563 789.5 C 563 796.1274 557.6274 801.5 551 801.5 L 430.5 801.5 C 423.8726 801.5 418.5 796.1274 418.5 789.5 L 418.5 763.5 C 418.5 756.8726 423.8726 751.5 430.5 751.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(423.5 758.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6.05" y="15">Oculus Headsets </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="3.37" y="33.448">e.g. Meta Quest 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <path d="M 1019.6875 751.5 L 1151.1875 751.5 C 1157.8149 751.5 1163.1875 756.8726 1163.1875 763.5 L 1163.1875 789.5 C 1163.1875 796.1274 1157.8149 801.5 1151.1875 801.5 L 1019.6875 801.5 C 1013.0601 801.5 1007.6875 796.1274 1007.6875 789.5 L 1007.6875 763.5 C 1007.6875 756.8726 1013.0601 751.5 1019.6875 751.5 Z" fill="white"/>
+        <path d="M 1019.6875 751.5 L 1151.1875 751.5 C 1157.8149 751.5 1163.1875 756.8726 1163.1875 763.5 L 1163.1875 789.5 C 1163.1875 796.1274 1157.8149 801.5 1151.1875 801.5 L 1019.6875 801.5 C 1013.0601 801.5 1007.6875 796.1274 1007.6875 789.5 L 1007.6875 763.5 C 1007.6875 756.8726 1013.0601 751.5 1019.6875 751.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1012.6875 758.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="16.742" y="15">WMR Headsets</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5.782" y="33.448">e.g. HP Reverb G2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_28">
+        <path d="M 305 202 L 349 202 C 355.6274 202 361 207.37258 361 214 L 361 240 C 361 246.62742 355.6274 252 349 252 L 305 252 C 298.3726 252 293 246.62742 293 240 L 293 214 C 293 207.37258 298.3726 202 305 202 Z" fill="white"/>
+        <path d="M 305 202 L 349 202 C 355.6274 202 361 207.37258 361 214 L 361 240 C 361 246.62742 355.6274 252 349 252 L 305 252 C 298.3726 252 293 246.62742 293 240 L 293 214 C 293 207.37258 298.3726 202 305 202 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(298 217.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5.152" y="15">Revive</tspan>
+        </text>
+      </g>
+      <g id="Graphic_109">
+        <path d="M 398 202 L 442 202 C 448.6274 202 454 207.37258 454 214 L 454 240 C 454 246.62742 448.6274 252 442 252 L 398 252 C 391.3726 252 386 246.62742 386 240 L 386 214 C 386 207.37258 391.3726 202 398 202 Z" fill="white"/>
+        <path d="M 398 202 L 442 202 C 448.6274 202 454 207.37258 454 214 L 454 240 C 454 246.62742 448.6274 252 442 252 L 398 252 C 391.3726 252 386 246.62742 386 240 L 386 214 C 386 207.37258 391.3726 202 398 202 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(391 217.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="8.56" y="15">Pitool</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M -73 98 L 3 98 C 9.627417 98 15 103.37258 15 110 L 15 136 C 15 142.62742 9.627417 148 3 148 L -73 148 C -79.62742 148 -85 142.62742 -85 136 L -85 110 C -85 103.37258 -79.62742 98 -73 98 Z" fill="white"/>
+        <path d="M -73 98 L 3 98 C 9.627417 98 15 103.37258 15 110 L 15 136 C 15 142.62742 9.627417 148 3 148 L -73 148 C -79.62742 148 -85 142.62742 -85 136 L -85 110 C -85 103.37258 -79.62742 98 -73 98 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-80 113.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.064" y="15">OpenVR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 452.75 98 L 528.75 98 C 535.3774 98 540.75 103.37258 540.75 110 L 540.75 136 C 540.75 142.62742 535.3774 148 528.75 148 L 452.75 148 C 446.1226 148 440.75 142.62742 440.75 136 L 440.75 110 C 440.75 103.37258 446.1226 98 452.75 98 Z" fill="white"/>
+        <path d="M 452.75 98 L 528.75 98 C 535.3774 98 540.75 103.37258 540.75 110 L 540.75 136 C 540.75 142.62742 535.3774 148 528.75 148 L 452.75 148 C 446.1226 148 440.75 142.62742 440.75 136 L 440.75 110 C 440.75 103.37258 446.1226 98 452.75 98 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(445.75 113.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5.288" y="15">Oculus API</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 572.75 98 L 648.75 98 C 655.3774 98 660.75 103.37258 660.75 110 L 660.75 136 C 660.75 142.62742 655.3774 148 648.75 148 L 572.75 148 C 566.1226 148 560.75 142.62742 560.75 136 L 560.75 110 C 560.75 103.37258 566.1226 98 572.75 98 Z" fill="white"/>
+        <path d="M 572.75 98 L 648.75 98 C 655.3774 98 660.75 103.37258 660.75 110 L 660.75 136 C 660.75 142.62742 655.3774 148 648.75 148 L 572.75 148 C 566.1226 148 560.75 142.62742 560.75 136 L 560.75 110 C 560.75 103.37258 566.1226 98 572.75 98 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(565.75 113.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.064" y="15">OpenXR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <path d="M 703 -121.02783 L 865 -121.02783 C 871.6274 -121.02783 877 -115.65525 877 -109.02783 L 877 -83.02783 C 877 -76.400415 871.6274 -71.02783 865 -71.02783 L 703 -71.02783 C 696.3726 -71.02783 691 -76.400415 691 -83.02783 L 691 -109.02783 C 691 -115.65525 696.3726 -121.02783 703 -121.02783 Z" fill="white"/>
+        <path d="M 703 -121.02783 L 865 -121.02783 C 871.6274 -121.02783 877 -115.65525 877 -109.02783 L 877 -83.02783 C 877 -76.400415 871.6274 -71.02783 865 -71.02783 L 703 -71.02783 C 696.3726 -71.02783 691 -76.400415 691 -83.02783 L 691 -109.02783 C 691 -115.65525 696.3726 -121.02783 703 -121.02783 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(696 -114.47583)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="21.76" y="15">OTS Game Engine</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="26.36" y="33.448">e.g. Unreal, Unity</tspan>
+        </text>
+      </g>
+      <g id="Graphic_68">
+        <path d="M 692.75 98 L 768.75 98 C 775.3774 98 780.75 103.37258 780.75 110 L 780.75 136 C 780.75 142.62742 775.3774 148 768.75 148 L 692.75 148 C 686.1226 148 680.75 142.62742 680.75 136 L 680.75 110 C 680.75 103.37258 686.1226 98 692.75 98 Z" fill="white"/>
+        <path d="M 692.75 98 L 768.75 98 C 775.3774 98 780.75 103.37258 780.75 110 L 780.75 136 C 780.75 142.62742 775.3774 148 768.75 148 L 692.75 148 C 686.1226 148 680.75 142.62742 680.75 136 L 680.75 110 C 680.75 103.37258 686.1226 98 692.75 98 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(685.75 113.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="8.848" y="15">Varjo SDK</tspan>
+        </text>
+      </g>
+      <g id="Graphic_35">
+        <path d="M -99 751.5 L 29 751.5 C 35.627417 751.5 41 756.8726 41 763.5 L 41 789.5 C 41 796.1274 35.627417 801.5 29 801.5 L -99 801.5 C -105.62742 801.5 -111 796.1274 -111 789.5 L -111 763.5 C -111 756.8726 -105.62742 751.5 -99 751.5 Z" fill="white"/>
+        <path d="M -99 751.5 L 29 751.5 C 35.627417 751.5 41 756.8726 41 763.5 L 41 789.5 C 41 796.1274 35.627417 801.5 29 801.5 L -99 801.5 C -105.62742 801.5 -111 796.1274 -111 789.5 L -111 763.5 C -111 756.8726 -105.62742 751.5 -99 751.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-106 758.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1.36" y="15">SteamVR Headsets </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="14.696" y="33.448">e.g. Valve Index</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 450.4375 421 L 526.4375 421 C 533.0649 421 538.4375 426.3726 538.4375 433 L 538.4375 459 C 538.4375 465.6274 533.0649 471 526.4375 471 L 450.4375 471 C 443.8101 471 438.4375 465.6274 438.4375 459 L 438.4375 433 C 438.4375 426.3726 443.8101 421 450.4375 421 Z" fill="white"/>
+        <path d="M 450.4375 421 L 526.4375 421 C 533.0649 421 538.4375 426.3726 538.4375 433 L 538.4375 459 C 538.4375 465.6274 533.0649 471 526.4375 471 L 450.4375 471 C 443.8101 471 438.4375 465.6274 438.4375 459 L 438.4375 433 C 438.4375 426.3726 443.8101 421 450.4375 421 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(443.4375 427.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="19.952" y="15">Oculus </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.208" y="33.448">Runtime</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 1047.4375 421 L 1123.4375 421 C 1130.0649 421 1135.4375 426.3726 1135.4375 433 L 1135.4375 459 C 1135.4375 465.6274 1130.0649 471 1123.4375 471 L 1047.4375 471 C 1040.8101 471 1035.4375 465.6274 1035.4375 459 L 1035.4375 433 C 1035.4375 426.3726 1040.8101 421 1047.4375 421 Z" fill="white"/>
+        <path d="M 1047.4375 421 L 1123.4375 421 C 1130.0649 421 1135.4375 426.3726 1135.4375 433 L 1135.4375 459 C 1135.4375 465.6274 1130.0649 471 1123.4375 471 L 1047.4375 471 C 1040.8101 471 1035.4375 465.6274 1035.4375 459 L 1035.4375 433 C 1035.4375 426.3726 1040.8101 421 1047.4375 421 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(1040.4375 436.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="25.144" y="15">WMR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <path d="M -6 202 L 105.5 202 C 112.12742 202 117.5 207.37258 117.5 214 L 117.5 240 C 117.5 246.62742 112.12742 252 105.5 252 L -6 252 C -12.627417 252 -18 246.62742 -18 240 L -18 214 C -18 207.37258 -12.627417 202 -6 202 Z" fill="white"/>
+        <path d="M -6 202 L 105.5 202 C 112.12742 202 117.5 207.37258 117.5 214 L 117.5 240 C 117.5 246.62742 112.12742 252 105.5 252 L -6 252 C -12.627417 252 -18 246.62742 -18 240 L -18 214 C -18 207.37258 -12.627417 202 -6 202 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-13 208.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="4.062" y="15">OpenComposite </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="32.686" y="33.448">(Classic)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 145 202 L 265.5 202 C 272.12742 202 277.5 207.37258 277.5 214 L 277.5 240 C 277.5 246.62742 272.12742 252 265.5 252 L 145 252 C 138.37258 252 133 246.62742 133 240 L 133 214 C 133 207.37258 138.37258 202 145 202 Z" fill="white"/>
+        <path d="M 145 202 L 265.5 202 C 272.12742 202 277.5 207.37258 277.5 214 L 277.5 240 C 277.5 246.62742 272.12742 252 265.5 252 L 145 252 C 138.37258 252 133 246.62742 133 240 L 133 214 C 133 207.37258 138.37258 202 145 202 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(138 208.552)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="8.562" y="15">OpenComposite </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="33.17" y="33.448">(OpenXR)</tspan>
+        </text>
+      </g>
+      <g id="Line_12">
+        <line x1="373.19355" y1="-162" x2="8.923713" y2="92.33254" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <line x1="415.59274" y1="-162" x2="481.63283" y2="88.42726" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_14">
+        <line x1="425.27016" y1="-162" x2="589.07975" y2="89.70247" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <line x1="-14.627404" y1="148" x2="23.12343" y2="194.3255" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_24">
+        <line x1="601.2831" y1="148" x2="501.41036" y2="411.7416" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_30">
+        <line x1="490.571" y1="148" x2="488.68736" y2="411.10025" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_40">
+        <line x1="488.6124" y1="471" x2="490.5058" y2="741.6002" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_41">
+        <line x1="1085.4375" y1="471" x2="1085.4375" y2="741.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_55">
+        <line x1="-37.3125" y1="471" x2="-37.3125" y2="486.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_56">
+        <line x1="-37.08623" y1="546" x2="-35.31587" y2="741.6004" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_64">
+        <line x1="696.8505" y1="-72.721155" x2="24.558298" y2="107.07213" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_65">
+        <line x1="750.5282" y1="-71.02783" x2="532.15357" y2="92.07576" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_66">
+        <line x1="764.2251" y1="-71.02783" x2="636.66664" y2="90.23541" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_70">
+        <line x1="777.922" y1="-71.02783" x2="739.16675" y2="88.38022" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_72">
+        <path d="M 666.75 751.5 L 794.75 751.5 C 801.3774 751.5 806.75 756.8726 806.75 763.5 L 806.75 789.5 C 806.75 796.1274 801.3774 801.5 794.75 801.5 L 666.75 801.5 C 660.1226 801.5 654.75 796.1274 654.75 789.5 L 654.75 763.5 C 654.75 756.8726 660.1226 751.5 666.75 751.5 Z" fill="white"/>
+        <path d="M 666.75 751.5 L 794.75 751.5 C 801.3774 751.5 806.75 756.8726 806.75 763.5 L 806.75 789.5 C 806.75 796.1274 801.3774 801.5 794.75 801.5 L 666.75 801.5 C 660.1226 801.5 654.75 796.1274 654.75 789.5 L 654.75 763.5 C 654.75 756.8726 660.1226 751.5 666.75 751.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(659.75 767.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="17.072" y="15">Varjo Headsets</tspan>
+        </text>
+      </g>
+      <g id="Line_80">
+        <line x1="455.6575" y1="-165.6905" x2="1024.0069" y2="93.88711" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_81">
+        <line x1="1087.571" y1="148" x2="1085.6874" y2="411.10025" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_82">
+        <line x1="818.6703" y1="-71.02783" x2="1045.0497" y2="92.20968" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_84">
+        <path d="M 856.75 98 L 949.75 98 C 956.3774 98 961.75 103.37258 961.75 110 L 961.75 136 C 961.75 142.62742 956.3774 148 949.75 148 L 856.75 148 C 850.1226 148 844.75 142.62742 844.75 136 L 844.75 110 C 844.75 103.37258 850.1226 98 856.75 98 Z" fill="white"/>
+        <path d="M 856.75 98 L 949.75 98 C 956.3774 98 961.75 103.37258 961.75 110 L 961.75 136 C 961.75 142.62742 956.3774 148 949.75 148 L 856.75 148 C 850.1226 148 844.75 142.62742 844.75 136 L 844.75 110 C 844.75 103.37258 850.1226 98 856.75 98 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(849.75 113.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="12.9" y="15">Pimax SDK</tspan>
+        </text>
+      </g>
+      <g id="Line_85">
+        <line x1="448.67416" y1="-162.11585" x2="855.0043" y2="92.73967" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_86">
+        <line x1="797.6113" y1="-71.02783" x2="884.9048" y2="89.30517" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_90">
+        <line x1="12.3652" y1="143.50356" x2="138.4123" y2="198.06714" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_114">
+        <line x1="451.48994" y1="147.93463" x2="367.02345" y2="201.58053" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_115">
+        <path d="M 315.17568 252 L 292 301 L -134.8125 303 L -134.17741 66.00037 L -88.79775 66.00037 L -65.39088 90.80035" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20.0,5.0,4.0,5.0,4.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_117">
+        <path d="M 49.493465 252 L 49.15484 285 L -108 285 L -107.40484 41.055025 L 440.75 41.055025 L 470.3393 89.54896" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,4.0,1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_119">
+        <path d="M 204.45343 252 L 202 329 L -166 329 L -163.29829 6.623863 L 576.983 6.623863 L 600.7374 88.49214" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_122">
+        <path d="M 49.61771 545.9987 L 220.9026 595.2554 L 549 596 L 550 53 L 528 53 L 508.7043 89.26039" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="16.0,9.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_134">
+        <text transform="translate(-239.6914 -199.97217)" fill="#4d5156">
+          <tspan font-family="Arial" font-size="18" fill="#4d5156" x="0" y="16">© Frederick Emmott, 2022</tspan>
+          <tspan font-family="Arial" font-size="18" fill="#4d5156" x="0" y="36.588867">CC-BY-SA 2.0 - https://creativecommons.org/licenses/by-sa/2.0/</tspan>
+          <tspan font-family="Arial" font-size="18" fill="#4d5156" x="0" y="57.177734">v2022.05.29.01</tspan>
+          <tspan font-family="Arial" font-size="18" fill="#4d5156" x="0" y="98.7666">Line style has no meaning: they vary to make them easier to</tspan>
+          <tspan font-family="Arial" font-size="18" fill="#4d5156" x="0" y="119.35547">follow.</tspan>
+        </text>
+      </g>
+      <g id="Line_162">
+        <line x1="-35.178986" y1="148" x2="-37.062637" y2="411.10025" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_166">
+        <path d="M 587.99366 148 L 402.48315 351.8009 L 12.6875 351.8009 L -19.40123 412.2555" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_167">
+        <path d="M 420.78125 252 L 422 291 L 792.2878 289.0597 L 792 35 L 822 35 L 873.4518 90.72624" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_168">
+        <path d="M 692.75 418 L 768.75 418 C 775.3774 418 780.75 423.3726 780.75 430 L 780.75 456 C 780.75 462.6274 775.3774 468 768.75 468 L 692.75 468 C 686.1226 468 680.75 462.6274 680.75 456 L 680.75 430 C 680.75 423.3726 686.1226 418 692.75 418 Z" fill="white"/>
+        <path d="M 692.75 418 L 768.75 418 C 775.3774 418 780.75 423.3726 780.75 430 L 780.75 456 C 780.75 462.6274 775.3774 468 768.75 468 L 692.75 468 C 686.1226 468 680.75 462.6274 680.75 456 L 680.75 430 C 680.75 423.3726 686.1226 418 692.75 418 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(685.75 433.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6.928" y="15">Varjo Base</tspan>
+        </text>
+      </g>
+      <g id="Line_169">
+        <line x1="730.75" y1="468" x2="730.75" y2="741.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_172">
+        <path d="M 865.25 418 L 941.25 418 C 947.8774 418 953.25 423.3726 953.25 430 L 953.25 456 C 953.25 462.6274 947.8774 468 941.25 468 L 865.25 468 C 858.6226 468 853.25 462.6274 853.25 456 L 853.25 430 C 853.25 423.3726 858.6226 418 865.25 418 Z" fill="white"/>
+        <path d="M 865.25 418 L 941.25 418 C 947.8774 418 953.25 423.3726 953.25 430 L 953.25 456 C 953.25 462.6274 947.8774 468 941.25 468 L 865.25 468 C 858.6226 468 853.25 462.6274 853.25 456 L 853.25 430 C 853.25 423.3726 858.6226 418 865.25 418 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(858.25 433.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="12.56" y="15">pi_server</tspan>
+        </text>
+      </g>
+      <g id="Line_173">
+        <line x1="903.25" y1="468" x2="903.25" y2="741.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_174">
+        <line x1="903.25" y1="148" x2="903.25" y2="408.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_175">
+        <path d="M -7.99537 546 L 121 656 L 819 658 L 822 59 L 863.7346 91.87406" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,9.0,1.0,5.0,1.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_180">
+        <path d="M -19.224454 546 L 82.0686 686 L 1011 686 L 1009.5 15 L 1020 15 L 1066.8062 89.61355" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="20.0,5.0,4.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_181">
+        <line x1="730.75" y1="148" x2="730.75" y2="408.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_183">
+        <path d="M 21.915673 546 L 216.18408 628 L 675 628 L 673.9138 48.589355 L 692.397 48.589355 L 713.3287 89.20013" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8.0,5.0,8.0,5.0,1.0,5.0" stroke-width="1"/>
+      </g>
+      <g id="Line_184">
+        <line x1="620.125" y1="148" x2="717.8989" y2="408.73034" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_187">
+        <line x1="-641" y1="-136" x2="-641" y2="772.1" marker-end="url(#FilledArrow_Marker_2)" stroke="#a5a5a5" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      </g>
+      <g id="Line_189">
+        <path d="M 626.5833 148 L 654.75 192.47388 L 975.5 192.47388 L 975.5 13.534302 L 997.4341 13.534302 L 1060.823 90.36363" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.0,2.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_190">
+        <text transform="translate(535.494 -203.896)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="10.808" y="15">Some games do not use an OTS Game Engine</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2842171e-19" y="33.448">Most games and engines only support some APIs</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

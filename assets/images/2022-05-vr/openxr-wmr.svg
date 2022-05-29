@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-523 -478 146 395" width="146" height="395">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="OpenXR-WMR" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>OpenXR-WMR</title>
+    <rect fill="white" x="-523" y="-478" width="146" height="395"/>
+    <g id="OpenXR-WMR_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5">
+        <path d="M -487.5 -477.5 L -411.5 -477.5 C -404.8726 -477.5 -399.5 -472.1274 -399.5 -465.5 L -399.5 -439.5 C -399.5 -432.8726 -404.8726 -427.5 -411.5 -427.5 L -487.5 -427.5 C -494.1274 -427.5 -499.5 -432.8726 -499.5 -439.5 L -499.5 -465.5 C -499.5 -472.1274 -494.1274 -477.5 -487.5 -477.5 Z" fill="white"/>
+        <path d="M -487.5 -477.5 L -411.5 -477.5 C -404.8726 -477.5 -399.5 -472.1274 -399.5 -465.5 L -399.5 -439.5 C -399.5 -432.8726 -404.8726 -427.5 -411.5 -427.5 L -487.5 -427.5 C -494.1274 -427.5 -499.5 -432.8726 -499.5 -439.5 L -499.5 -465.5 C -499.5 -472.1274 -494.1274 -477.5 -487.5 -477.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-494.5 -461.724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="23.512" y="15">Game</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M -510 -133.5 L -389.5 -133.5 C -382.8726 -133.5 -377.5 -128.12742 -377.5 -121.5 L -377.5 -95.5 C -377.5 -88.87258 -382.8726 -83.5 -389.5 -83.5 L -510 -83.5 C -516.6274 -83.5 -522 -88.87258 -522 -95.5 L -522 -121.5 C -522 -128.12742 -516.6274 -133.5 -510 -133.5 Z" fill="white"/>
+        <path d="M -510 -133.5 L -389.5 -133.5 C -382.8726 -133.5 -377.5 -128.12742 -377.5 -121.5 L -377.5 -95.5 C -377.5 -88.87258 -382.8726 -83.5 -389.5 -83.5 L -510 -83.5 C -516.6274 -83.5 -522 -88.87258 -522 -95.5 L -522 -121.5 C -522 -128.12742 -516.6274 -133.5 -510 -133.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-517 -126.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.242" y="15">WMR Headsets</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.506" y="33.448">e.g HP Reverb G2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <path d="M -487.75 -219.5 L -411.75 -219.5 C -405.1226 -219.5 -399.75 -214.12742 -399.75 -207.5 L -399.75 -181.5 C -399.75 -174.87258 -405.1226 -169.5 -411.75 -169.5 L -487.75 -169.5 C -494.3774 -169.5 -499.75 -174.87258 -499.75 -181.5 L -499.75 -207.5 C -499.75 -214.12742 -494.3774 -219.5 -487.75 -219.5 Z" fill="white"/>
+        <path d="M -487.75 -219.5 L -411.75 -219.5 C -405.1226 -219.5 -399.75 -214.12742 -399.75 -207.5 L -399.75 -181.5 C -399.75 -174.87258 -405.1226 -169.5 -411.75 -169.5 L -487.75 -169.5 C -494.3774 -169.5 -499.75 -174.87258 -499.75 -181.5 L -499.75 -207.5 C -499.75 -214.12742 -494.3774 -219.5 -487.75 -219.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-494.75 -203.724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="25.144" y="15">WMR</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <line x1="-449.75" y1="-169.5" x2="-449.75" y2="-143.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_29">
+        <path d="M -510 -305.5 L -389.5 -305.5 C -382.8726 -305.5 -377.5 -300.1274 -377.5 -293.5 L -377.5 -267.5 C -377.5 -260.87258 -382.8726 -255.5 -389.5 -255.5 L -510 -255.5 C -516.6274 -255.5 -522 -260.87258 -522 -267.5 L -522 -293.5 C -522 -300.1274 -516.6274 -305.5 -510 -305.5 Z" fill="white"/>
+        <path d="M -510 -305.5 L -389.5 -305.5 C -382.8726 -305.5 -377.5 -300.1274 -377.5 -293.5 L -377.5 -267.5 C -377.5 -260.87258 -382.8726 -255.5 -389.5 -255.5 L -510 -255.5 C -516.6274 -255.5 -522 -260.87258 -522 -267.5 L -522 -293.5 C -522 -300.1274 -516.6274 -305.5 -510 -305.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-517 -298.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="34.218" y="15">Windows </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="9.034" y="33.448">Holographic API</tspan>
+        </text>
+      </g>
+      <g id="Line_31">
+        <line x1="-449.75" y1="-255.5" x2="-449.75" y2="-229.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_35">
+        <path d="M -507.5 -391.5 L -392 -391.5 C -385.3726 -391.5 -380 -386.1274 -380 -379.5 L -380 -353.5 C -380 -346.8726 -385.3726 -341.5 -392 -341.5 L -507.5 -341.5 C -514.1274 -341.5 -519.5 -346.8726 -519.5 -353.5 L -519.5 -379.5 C -519.5 -386.1274 -514.1274 -391.5 -507.5 -391.5 Z" fill="white"/>
+        <path d="M -507.5 -391.5 L -392 -391.5 C -385.3726 -391.5 -380 -386.1274 -380 -379.5 L -380 -353.5 C -380 -346.8726 -385.3726 -341.5 -392 -341.5 L -507.5 -341.5 C -514.1274 -341.5 -519.5 -346.8726 -519.5 -353.5 L -519.5 -379.5 C -519.5 -386.1274 -514.1274 -391.5 -507.5 -391.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-514.5 -375.724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="34.814" y="15">OpenXR</tspan>
+        </text>
+      </g>
+      <g id="Line_38">
+        <line x1="-449.75" y1="-341.5" x2="-449.75" y2="-315.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_39">
+        <line x1="-449.5727" y1="-427.5" x2="-449.64855" y2="-401.39996" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

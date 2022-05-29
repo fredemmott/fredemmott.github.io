@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="176 -136 399 653" width="399" height="653">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="openvr-driver-types" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>openvr-driver-types</title>
+    <rect fill="white" x="176" y="-136" width="399" height="653"/>
+    <g id="openvr-driver-types_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 342.5 -49.5 L 418.5 -49.5 C 425.1274 -49.5 430.5 -44.127417 430.5 -37.5 L 430.5 -11.5 C 430.5 -4.872583 425.1274 .5 418.5 .5 L 342.5 .5 C 335.8726 .5 330.5 -4.872583 330.5 -11.5 L 330.5 -37.5 C 330.5 -44.127417 335.8726 -49.5 342.5 -49.5 Z" fill="white"/>
+        <path d="M 342.5 -49.5 L 418.5 -49.5 C 425.1274 -49.5 430.5 -44.127417 430.5 -37.5 L 430.5 -11.5 C 430.5 -4.872583 425.1274 .5 418.5 .5 L 342.5 .5 C 335.8726 .5 330.5 -4.872583 330.5 -11.5 L 330.5 -37.5 C 330.5 -44.127417 335.8726 -49.5 342.5 -49.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(335.5 -42.948)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.512" y="15">SteamVR </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.208" y="33.448">Runtime</tspan>
+        </text>
+      </g>
+      <g id="Graphic_23">
+        <path d="M 247.5 36.5 L 371.5 36.5 C 378.1274 36.5 383.5 41.872583 383.5 48.5 L 383.5 74.5 C 383.5 81.12742 378.1274 86.5 371.5 86.5 L 247.5 86.5 C 240.87258 86.5 235.5 81.12742 235.5 74.5 L 235.5 48.5 C 235.5 41.872583 240.87258 36.5 247.5 36.5 Z" fill="white"/>
+        <path d="M 247.5 36.5 L 371.5 36.5 C 378.1274 36.5 383.5 41.872583 383.5 48.5 L 383.5 74.5 C 383.5 81.12742 378.1274 86.5 371.5 86.5 L 247.5 86.5 C 240.87258 86.5 235.5 81.12742 235.5 74.5 L 235.5 48.5 C 235.5 41.872583 240.87258 36.5 247.5 36.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(240.5 43.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.808" y="15">OpenVR Driver</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="25.136" y="33.448">Direct Mode</tspan>
+        </text>
+      </g>
+      <g id="Graphic_24">
+        <path d="M 241.5 122.5 L 365.5 122.5 C 372.1274 122.5 377.5 127.87258 377.5 134.5 L 377.5 160.5 C 377.5 167.12742 372.1274 172.5 365.5 172.5 L 241.5 172.5 C 234.87258 172.5 229.5 167.12742 229.5 160.5 L 229.5 134.5 C 229.5 127.87258 234.87258 122.5 241.5 122.5 Z" fill="white"/>
+        <path d="M 241.5 122.5 L 365.5 122.5 C 372.1274 122.5 377.5 127.87258 377.5 134.5 L 377.5 160.5 C 377.5 167.12742 372.1274 172.5 365.5 172.5 L 241.5 172.5 C 234.87258 172.5 229.5 167.12742 229.5 160.5 L 229.5 134.5 C 229.5 127.87258 234.87258 122.5 241.5 122.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(234.5 138.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="21.44" y="15">Vendor B API</tspan>
+        </text>
+      </g>
+      <g id="Graphic_25">
+        <path d="M 188.5 208.5 L 312.5 208.5 C 319.1274 208.5 324.5 213.87258 324.5 220.5 L 324.5 246.5 C 324.5 253.12742 319.1274 258.5 312.5 258.5 L 188.5 258.5 C 181.87258 258.5 176.5 253.12742 176.5 246.5 L 176.5 220.5 C 176.5 213.87258 181.87258 208.5 188.5 208.5 Z" fill="white"/>
+        <path d="M 188.5 208.5 L 312.5 208.5 C 319.1274 208.5 324.5 213.87258 324.5 220.5 L 324.5 246.5 C 324.5 253.12742 319.1274 258.5 312.5 258.5 L 188.5 258.5 C 181.87258 258.5 176.5 253.12742 176.5 246.5 L 176.5 220.5 C 176.5 213.87258 181.87258 208.5 188.5 208.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(181.5 224.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="4.088" y="15">Vendor B Runtime</tspan>
+        </text>
+      </g>
+      <g id="Graphic_26">
+        <path d="M 188.5 294.5 L 312.5 294.5 C 319.1274 294.5 324.5 299.8726 324.5 306.5 L 324.5 332.5 C 324.5 339.1274 319.1274 344.5 312.5 344.5 L 188.5 344.5 C 181.87258 344.5 176.5 339.1274 176.5 332.5 L 176.5 306.5 C 176.5 299.8726 181.87258 294.5 188.5 294.5 Z" fill="white"/>
+        <path d="M 188.5 294.5 L 312.5 294.5 C 319.1274 294.5 324.5 299.8726 324.5 306.5 L 324.5 332.5 C 324.5 339.1274 319.1274 344.5 312.5 344.5 L 188.5 344.5 C 181.87258 344.5 176.5 339.1274 176.5 332.5 L 176.5 306.5 C 176.5 299.8726 181.87258 294.5 188.5 294.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(181.5 301.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="36.104" y="15">Vendor B </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="26.92" y="33.448">Compositor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 188.5 380.5 L 312.5 380.5 C 319.1274 380.5 324.5 385.8726 324.5 392.5 L 324.5 418.5 C 324.5 425.1274 319.1274 430.5 312.5 430.5 L 188.5 430.5 C 181.87258 430.5 176.5 425.1274 176.5 418.5 L 176.5 392.5 C 176.5 385.8726 181.87258 380.5 188.5 380.5 Z" fill="white"/>
+        <path d="M 188.5 380.5 L 312.5 380.5 C 319.1274 380.5 324.5 385.8726 324.5 392.5 L 324.5 418.5 C 324.5 425.1274 319.1274 430.5 312.5 430.5 L 188.5 430.5 C 181.87258 430.5 176.5 425.1274 176.5 418.5 L 176.5 392.5 C 176.5 385.8726 181.87258 380.5 188.5 380.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(181.5 396.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="3.952" y="15">Vendor B Headset</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 342.5 -135.5 L 418.5 -135.5 C 425.1274 -135.5 430.5 -130.12742 430.5 -123.5 L 430.5 -97.5 C 430.5 -90.87258 425.1274 -85.5 418.5 -85.5 L 342.5 -85.5 C 335.8726 -85.5 330.5 -90.87258 330.5 -97.5 L 330.5 -123.5 C 330.5 -130.12742 335.8726 -135.5 342.5 -135.5 Z" fill="white"/>
+        <path d="M 342.5 -135.5 L 418.5 -135.5 C 425.1274 -135.5 430.5 -130.12742 430.5 -123.5 L 430.5 -97.5 C 430.5 -90.87258 425.1274 -85.5 418.5 -85.5 L 342.5 -85.5 C 335.8726 -85.5 330.5 -90.87258 330.5 -97.5 L 330.5 -123.5 C 330.5 -130.12742 335.8726 -135.5 342.5 -135.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(335.5 -119.724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.064" y="15">OpenVR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 354.5 208.5 L 430.5 208.5 C 437.1274 208.5 442.5 213.87258 442.5 220.5 L 442.5 246.5 C 442.5 253.12742 437.1274 258.5 430.5 258.5 L 354.5 258.5 C 347.8726 258.5 342.5 253.12742 342.5 246.5 L 342.5 220.5 C 342.5 213.87258 347.8726 208.5 354.5 208.5 Z" fill="white"/>
+        <path d="M 354.5 208.5 L 430.5 208.5 C 437.1274 208.5 442.5 213.87258 442.5 220.5 L 442.5 246.5 C 442.5 253.12742 437.1274 258.5 430.5 258.5 L 354.5 258.5 C 347.8726 258.5 342.5 253.12742 342.5 246.5 L 342.5 220.5 C 342.5 213.87258 347.8726 208.5 354.5 208.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(347.5 215.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.808" y="15">Vendor C </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="32.56" y="33.448">API</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 354.5 294.5 L 430.5 294.5 C 437.1274 294.5 442.5 299.8726 442.5 306.5 L 442.5 332.5 C 442.5 339.1274 437.1274 344.5 430.5 344.5 L 354.5 344.5 C 347.8726 344.5 342.5 339.1274 342.5 332.5 L 342.5 306.5 C 342.5 299.8726 347.8726 294.5 354.5 294.5 Z" fill="white"/>
+        <path d="M 354.5 294.5 L 430.5 294.5 C 437.1274 294.5 442.5 299.8726 442.5 306.5 L 442.5 332.5 C 442.5 339.1274 437.1274 344.5 430.5 344.5 L 354.5 344.5 C 347.8726 344.5 342.5 339.1274 342.5 332.5 L 342.5 306.5 C 342.5 299.8726 347.8726 294.5 354.5 294.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(347.5 301.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.808" y="15">Vendor C </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.208" y="33.448">Runtime</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <path d="M 354.5 380.5 L 430.5 380.5 C 437.1274 380.5 442.5 385.8726 442.5 392.5 L 442.5 418.5 C 442.5 425.1274 437.1274 430.5 430.5 430.5 L 354.5 430.5 C 347.8726 430.5 342.5 425.1274 342.5 418.5 L 342.5 392.5 C 342.5 385.8726 347.8726 380.5 354.5 380.5 Z" fill="white"/>
+        <path d="M 354.5 380.5 L 430.5 380.5 C 437.1274 380.5 442.5 385.8726 442.5 392.5 L 442.5 418.5 C 442.5 425.1274 437.1274 430.5 430.5 430.5 L 354.5 430.5 C 347.8726 430.5 342.5 425.1274 342.5 418.5 L 342.5 392.5 C 342.5 385.8726 347.8726 380.5 354.5 380.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(347.5 387.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.808" y="15">Vendor C </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.92" y="33.448">Compositor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 354.5 466.5 L 430.5 466.5 C 437.1274 466.5 442.5 471.8726 442.5 478.5 L 442.5 504.5 C 442.5 511.1274 437.1274 516.5 430.5 516.5 L 354.5 516.5 C 347.8726 516.5 342.5 511.1274 342.5 504.5 L 342.5 478.5 C 342.5 471.8726 347.8726 466.5 354.5 466.5 Z" fill="white"/>
+        <path d="M 354.5 466.5 L 430.5 466.5 C 437.1274 466.5 442.5 471.8726 442.5 478.5 L 442.5 504.5 C 442.5 511.1274 437.1274 516.5 430.5 516.5 L 354.5 516.5 C 347.8726 516.5 342.5 511.1274 342.5 504.5 L 342.5 478.5 C 342.5 471.8726 347.8726 466.5 354.5 466.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(347.5 473.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.808" y="15">Vendor C </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.072" y="33.448">Headset</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 442.5 36.5 L 518.5 36.5 C 525.1274 36.5 530.5 41.872583 530.5 48.5 L 530.5 74.5 C 530.5 81.12742 525.1274 86.5 518.5 86.5 L 442.5 86.5 C 435.8726 86.5 430.5 81.12742 430.5 74.5 L 430.5 48.5 C 430.5 41.872583 435.8726 36.5 442.5 36.5 Z" fill="white"/>
+        <path d="M 442.5 36.5 L 518.5 36.5 C 525.1274 36.5 530.5 41.872583 530.5 48.5 L 530.5 74.5 C 530.5 81.12742 525.1274 86.5 518.5 86.5 L 442.5 86.5 C 435.8726 86.5 430.5 81.12742 430.5 74.5 L 430.5 48.5 C 430.5 41.872583 435.8726 36.5 442.5 36.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(435.5 43.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="11.512" y="15">SteamVR </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="2.92" y="33.448">Compositor</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 459.25 122.5 L 561.75 122.5 C 568.3774 122.5 573.75 127.87258 573.75 134.5 L 573.75 160.5 C 573.75 167.12742 568.3774 172.5 561.75 172.5 L 459.25 172.5 C 452.6226 172.5 447.25 167.12742 447.25 160.5 L 447.25 134.5 C 447.25 127.87258 452.6226 122.5 459.25 122.5 Z" fill="white"/>
+        <path d="M 459.25 122.5 L 561.75 122.5 C 568.3774 122.5 573.75 127.87258 573.75 134.5 L 573.75 160.5 C 573.75 167.12742 568.3774 172.5 561.75 172.5 L 459.25 172.5 C 452.6226 172.5 447.25 167.12742 447.25 160.5 L 447.25 134.5 C 447.25 127.87258 452.6226 122.5 459.25 122.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(452.25 138.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5.058" y="15">OpenVR Driver</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 472.5 208.5 L 548.5 208.5 C 555.1274 208.5 560.5 213.87258 560.5 220.5 L 560.5 246.5 C 560.5 253.12742 555.1274 258.5 548.5 258.5 L 472.5 258.5 C 465.8726 258.5 460.5 253.12742 460.5 246.5 L 460.5 220.5 C 460.5 213.87258 465.8726 208.5 472.5 208.5 Z" fill="white"/>
+        <path d="M 472.5 208.5 L 548.5 208.5 C 555.1274 208.5 560.5 213.87258 560.5 220.5 L 560.5 246.5 C 560.5 253.12742 555.1274 258.5 548.5 258.5 L 472.5 258.5 C 465.8726 258.5 460.5 253.12742 460.5 246.5 L 460.5 220.5 C 460.5 213.87258 465.8726 208.5 472.5 208.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(465.5 215.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="12.4" y="15">Vendor A </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.072" y="33.448">Headset</tspan>
+        </text>
+      </g>
+      <g id="Line_9">
+        <line x1="380.5" y1="-85.5" x2="380.5" y2="-59.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_10">
+        <line x1="409.56977" y1=".5" x2="443.9242" y2="30.04481" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_12">
+        <line x1="489.22093" y1="86.5" x2="498.5183" y2="113.15242" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <line x1="510.5" y1="172.5" x2="510.5" y2="198.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_18">
+        <line x1="476.1977" y1="172.5" x2="434.80294" y2="202.66904" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_19">
+        <line x1="392.5" y1="258.5" x2="392.5" y2="284.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_20">
+        <line x1="392.5" y1="344.5" x2="392.5" y2="370.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_21">
+        <line x1="392.5" y1="430.5" x2="392.5" y2="456.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_30">
+        <line x1="307.7558" y1="86.5" x2="305.9332" y2="112.624" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="288.09302" y1="172.5" x2="271.101" y2="200.07195" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_32">
+        <line x1="250.5" y1="258.5" x2="250.5" y2="284.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_33">
+        <line x1="250.5" y1="344.5" x2="250.5" y2="370.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_34">
+        <line x1="359.86047" y1=".5" x2="336.44237" y2="28.865584" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

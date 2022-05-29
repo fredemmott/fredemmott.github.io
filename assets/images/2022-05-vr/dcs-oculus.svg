@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-498 -468 146 310" width="146" height="310">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Self-DCS" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>Self-DCS</title>
+    <rect fill="white" x="-498" y="-468" width="146" height="310"/>
+    <g id="Self-DCS_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_5">
+        <path d="M -463 -467 L -387 -467 C -380.3726 -467 -375 -461.6274 -375 -455 L -375 -429 C -375 -422.3726 -380.3726 -417 -387 -417 L -463 -417 C -469.6274 -417 -475 -422.3726 -475 -429 L -475 -455 C -475 -461.6274 -469.6274 -467 -463 -467 Z" fill="white"/>
+        <path d="M -463 -467 L -387 -467 C -380.3726 -467 -375 -461.6274 -375 -455 L -375 -429 C -375 -422.3726 -380.3726 -417 -387 -417 L -463 -417 C -469.6274 -417 -475 -422.3726 -475 -429 L -475 -455 C -475 -461.6274 -469.6274 -467 -463 -467 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-470 -460.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="23.512" y="15">Game</tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="12.848" y="33.448">e.g. DCS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M -485.25 -209 L -364.75 -209 C -358.1226 -209 -352.75 -203.62742 -352.75 -197 L -352.75 -171 C -352.75 -164.37258 -358.1226 -159 -364.75 -159 L -485.25 -159 C -491.8774 -159 -497.25 -164.37258 -497.25 -171 L -497.25 -197 C -497.25 -203.62742 -491.8774 -209 -485.25 -209 Z" fill="white"/>
+        <path d="M -485.25 -209 L -364.75 -209 C -358.1226 -209 -352.75 -203.62742 -352.75 -197 L -352.75 -171 C -352.75 -164.37258 -358.1226 -159 -364.75 -159 L -485.25 -159 C -491.8774 -159 -497.25 -164.37258 -497.25 -171 L -497.25 -197 C -497.25 -203.62742 -491.8774 -209 -485.25 -209 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-492.25 -202.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="6.05" y="15">Oculus Headsets </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="3.37" y="33.448">e.g. Meta Quest 2</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M -463 -381 L -387 -381 C -380.3726 -381 -375 -375.6274 -375 -369 L -375 -343 C -375 -336.3726 -380.3726 -331 -387 -331 L -463 -331 C -469.6274 -331 -475 -336.3726 -475 -343 L -475 -369 C -475 -375.6274 -469.6274 -381 -463 -381 Z" fill="white"/>
+        <path d="M -463 -381 L -387 -381 C -380.3726 -381 -375 -375.6274 -375 -369 L -375 -343 C -375 -336.3726 -380.3726 -331 -387 -331 L -463 -331 C -469.6274 -331 -475 -336.3726 -475 -343 L -475 -369 C -475 -375.6274 -469.6274 -381 -463 -381 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-470 -365.224)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="5.288" y="15">Oculus API</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <path d="M -463 -295 L -387 -295 C -380.3726 -295 -375 -289.6274 -375 -283 L -375 -257 C -375 -250.37258 -380.3726 -245 -387 -245 L -463 -245 C -469.6274 -245 -475 -250.37258 -475 -257 L -475 -283 C -475 -289.6274 -469.6274 -295 -463 -295 Z" fill="white"/>
+        <path d="M -463 -295 L -387 -295 C -380.3726 -295 -375 -289.6274 -375 -283 L -375 -257 C -375 -250.37258 -380.3726 -245 -387 -245 L -463 -245 C -469.6274 -245 -475 -250.37258 -475 -257 L -475 -283 C -475 -289.6274 -469.6274 -295 -463 -295 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-470 -288.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="19.952" y="15">Oculus </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.208" y="33.448">Runtime</tspan>
+        </text>
+      </g>
+      <g id="Line_6">
+        <line x1="-425" y1="-331" x2="-425" y2="-304.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_7">
+        <line x1="-425" y1="-245" x2="-425" y2="-218.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_8">
+        <line x1="-425" y1="-417" x2="-425" y2="-390.9" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
