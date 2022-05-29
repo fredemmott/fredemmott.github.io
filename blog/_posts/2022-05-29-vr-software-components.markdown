@@ -226,8 +226,8 @@ This allows things like:
 OpenXR Toolkit is one of these API layers; while it requires OpenXR, it does not require OpenComposite, and
 neither OpenXR or OpenComposite require it.
 
-The OpenXR loader is generally part of the game, and is responsible for finding and loading any wanted API
-layers; once the loader is finished, the flow for an OpenXR game might look like this:
+The OpenXR loader is generally distributed with the game, and is responsible for finding and loading any wanted
+API layers; once the loader is finished, the flow for an OpenXR game might look like this:
 
 ![Game -> OpenXR -> OpenXR Tookit -> Windows Holographic API](/assets/images/2022-05-vr/openxr-toolkit.svg)
 
