@@ -220,7 +220,7 @@ and/or modifying the OpenXR functions.
 This allows things like:
 * changing how controllers work in the game, e.g. simulating different kinds of controllers
 * adding, removing, or modifying visual layers, e.g. adding overlays
-* giving the game differnt information about the hardware, e.g. changing resolution or eye position
+* giving the game different information about the hardware, e.g. changing resolution or eye position
 
 OpenXR Toolkit is one of these API layers; while it requires OpenXR, it does not require OpenComposite, and
 neither OpenXR or OpenComposite require it.
