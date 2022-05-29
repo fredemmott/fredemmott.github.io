@@ -196,7 +196,7 @@ Some OpenVR drivers are automatically installed when you install SteamVR and you
 need to be installed separately. For example, there is no need to separately install a SteamVR driver for a
 Valve Index, or an Oculus Quest - installing SteamVR and the normal oculus software is enough - but
 Windows Mixed Reality for SteamVR needs separate installation. This isn't an 'extra layer' for WMR compared to
-other SteamVR-compatible headsets - it's just a matter of how they chose to package it.
+other SteamVR-compatible headsets, just a matter of how they chose to package and distribute it.
 
 ## Common Questions
 
