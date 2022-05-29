@@ -86,7 +86,7 @@ a better or more immersive user experience; for example:
 
 * it can be jarring to see [HTC Vive] controllers in your hands in game when you are using a [Meta Quest] or
   Valve Index
-* controls designed for a Vive, Quest, or Index often feel wrong/intuitive when using a different controller; this
+* controls designed for a Vive, Quest, or Index often feel wrong/unintuitive when using a different controller; this
   can be due to location of buttons (especially trigger/grip butons), or push-and-hold vs toggle grip button
   norms
 
