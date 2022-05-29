@@ -152,8 +152,7 @@ of OpenComposite+OpenXR report higher or more consistent framerates, this is not
 
 ### Should Quest/Rift owners use OpenComposite+OpenXR?
 
-If a game supports the Oculus API directly - unless you want to use other OpenXR software with that game (e.g.
-[OpenXR Toolkit]) - probably not. Similarly, if you have a Varjo headset and the game directly supports Varjo, or
+If a game supports the Oculus API directly, probably not - unless you want to use other OpenXR software with that game such as [OpenXR Toolkit]. Similarly, if you have a Varjo headset and the game directly supports Varjo, or
 a WMR headset and the game directly supports WMR/Windows holographic, probably not. In these cases, OpenComposite
 adds steps, instead of removing them:
 
