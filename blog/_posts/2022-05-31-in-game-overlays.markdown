@@ -431,3 +431,4 @@ was not reimbursed for it.
 [API layers]: https://www.khronos.org/registry/OpenXR/specs/1.0/html/xrspec.html#api-layers
 [DirectXTK]: https://github.com/Microsoft/DirectXTK
 [SimpleMath]: https://github.com/microsoft/DirectXTK/wiki/SimpleMath
+[DllMain]: https://docs.microsoft.com/en-us/windows/win32/dlls/dllmain
