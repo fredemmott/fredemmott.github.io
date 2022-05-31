@@ -5,7 +5,7 @@ date: 2022-05-31 18:12:00 -0500
 tags: VR overlays graphics
 ---
 
-This is post aims to give developers a high-level understanding of how in-game overlays work in a variety of
+This post aims to give developers a high-level understanding of how in-game overlays work in a variety of
 environments: non-VR, Oculus, SteamVR, and OpenXR. Non-VR overlays are often used for social features and
 notifications, like the Steam, Discord, and EA overlays; VR expands the use cases and technical requirements.
 
