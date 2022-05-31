@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="35 35 646 52" width="646" height="52">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Game_-_No_Overlay" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>Game - No Overlay</title>
+    <rect fill="white" x="35" y="35" width="646" height="52"/>
+    <g id="Game_-_No_Overlay_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 48 36 L 124 36 C 130.62742 36 136 41.372583 136 48 L 136 74 C 136 80.62742 130.62742 86 124 86 L 48 86 C 41.372583 86 36 80.62742 36 74 L 36 48 C 36 41.372583 41.372583 36 48 36 Z" fill="white"/>
+        <path d="M 48 36 L 124 36 C 130.62742 36 136 41.372583 136 48 L 136 74 C 136 80.62742 130.62742 86 124 86 L 48 86 C 41.372583 86 36 80.62742 36 74 L 36 48 C 36 41.372583 41.372583 36 48 36 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(41 51.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="23.512" y="15">Game</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 184 36 L 260 36 C 266.62742 36 272 41.372583 272 48 L 272 74 C 272 80.62742 266.62742 86 260 86 L 184 86 C 177.37258 86 172 80.62742 172 74 L 172 48 C 172 41.372583 177.37258 36 184 36 Z" fill="white"/>
+        <path d="M 184 36 L 260 36 C 266.62742 36 272 41.372583 272 48 L 272 74 C 272 80.62742 266.62742 86 260 86 L 184 86 C 177.37258 86 172 80.62742 172 74 L 172 48 C 172 41.372583 177.37258 36 184 36 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(177 51.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="13.88" y="15">Direct3D</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 456 36 L 532 36 C 538.6274 36 544 41.372583 544 48 L 544 74 C 544 80.62742 538.6274 86 532 86 L 456 86 C 449.3726 86 444 80.62742 444 74 L 444 48 C 444 41.372583 449.3726 36 456 36 Z" fill="white"/>
+        <path d="M 456 36 L 532 36 C 538.6274 36 544 41.372583 544 48 L 544 74 C 544 80.62742 538.6274 86 532 86 L 456 86 C 449.3726 86 444 80.62742 444 74 L 444 48 C 444 41.372583 449.3726 36 456 36 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(449 51.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="27.968" y="15">GPU</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 320 36 L 396 36 C 402.6274 36 408 41.372583 408 48 L 408 74 C 408 80.62742 402.6274 86 396 86 L 320 86 C 313.3726 86 308 80.62742 308 74 L 308 48 C 308 41.372583 313.3726 36 320 36 Z" fill="white"/>
+        <path d="M 320 36 L 396 36 C 402.6274 36 408 41.372583 408 48 L 408 74 C 408 80.62742 402.6274 86 396 86 L 320 86 C 313.3726 86 308 80.62742 308 74 L 308 48 C 308 41.372583 313.3726 36 320 36 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(313 51.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="4.712" y="15">GPU Driver</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 592 36 L 668 36 C 674.6274 36 680 41.372583 680 48 L 680 74 C 680 80.62742 674.6274 86 668 86 L 592 86 C 585.3726 86 580 80.62742 580 74 L 580 48 C 580 41.372583 585.3726 36 592 36 Z" fill="white"/>
+        <path d="M 592 36 L 668 36 C 674.6274 36 680 41.372583 680 48 L 680 74 C 680 80.62742 674.6274 86 668 86 L 592 86 C 585.3726 86 580 80.62742 580 74 L 580 48 C 580 41.372583 585.3726 36 592 36 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(585 51.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="17.44" y="15">Monitor</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <line x1="136" y1="61" x2="162.1" y2="61" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_9">
+        <line x1="544" y1="61" x2="570.1" y2="61" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_11">
+        <line x1="272" y1="61" x2="298.1" y2="61" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_12">
+        <line x1="408" y1="61" x2="434.1" y2="61" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

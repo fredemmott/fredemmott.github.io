@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-327 -508 860 118" width="860" height="118">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="OpenXR-no-layers" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>OpenXR-no-layers</title>
+    <rect fill="white" x="-327" y="-508" width="860" height="118"/>
+    <g id="OpenXR-no-layers_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_35">
+        <path d="M -313.5 -506 L 222.5 -506 C 229.12742 -506 234.5 -500.6274 234.5 -494 L 234.5 -403.5 C 234.5 -396.8726 229.12742 -391.5 222.5 -391.5 L -313.5 -391.5 C -320.1274 -391.5 -325.5 -396.8726 -325.5 -403.5 L -325.5 -494 C -325.5 -500.6274 -320.1274 -506 -313.5 -506 Z" fill="white"/>
+        <path d="M -313.5 -506 L 222.5 -506 C 229.12742 -506 234.5 -500.6274 234.5 -494 L 234.5 -403.5 C 234.5 -396.8726 229.12742 -391.5 222.5 -391.5 L -313.5 -391.5 C -320.1274 -391.5 -325.5 -396.8726 -325.5 -403.5 L -325.5 -494 C -325.5 -500.6274 -320.1274 -506 -313.5 -506 Z" stroke="#0096ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <text transform="translate(-320.5 -501)" fill="#0096ff">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="#0096ff" x="222.4" y="15">Game Process</tspan>
+        </text>
+      </g>
+      <g id="Graphic_2">
+        <path d="M -290.5 -465 L -156.5 -465 C -149.87258 -465 -144.5 -459.6274 -144.5 -453 L -144.5 -427 C -144.5 -420.3726 -149.87258 -415 -156.5 -415 L -290.5 -415 C -297.1274 -415 -302.5 -420.3726 -302.5 -427 L -302.5 -453 C -302.5 -459.6274 -297.1274 -465 -290.5 -465 Z" fill="white"/>
+        <path d="M -290.5 -465 L -156.5 -465 C -149.87258 -465 -144.5 -459.6274 -144.5 -453 L -144.5 -427 C -144.5 -420.3726 -149.87258 -415 -156.5 -415 L -290.5 -415 C -297.1274 -415 -302.5 -420.3726 -302.5 -427 L -302.5 -453 C -302.5 -459.6274 -297.1274 -465 -290.5 -465 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-297.5 -454.724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="52.512" y="15">Game</tspan>
+          <tspan font-family="Courier New" font-size="10" fill="black" x="43.995117" y="26.447998">MyGame.exe</tspan>
+        </text>
+      </g>
+      <g id="Graphic_13">
+        <path d="M 444.5 -465 L 520.5 -465 C 527.1274 -465 532.5 -459.6274 532.5 -453 L 532.5 -427 C 532.5 -420.3726 527.1274 -415 520.5 -415 L 444.5 -415 C 437.8726 -415 432.5 -420.3726 432.5 -427 L 432.5 -453 C 432.5 -459.6274 437.8726 -465 444.5 -465 Z" fill="white"/>
+        <path d="M 444.5 -465 L 520.5 -465 C 527.1274 -465 532.5 -459.6274 532.5 -453 L 532.5 -427 C 532.5 -420.3726 527.1274 -415 520.5 -415 L 444.5 -415 C 437.8726 -415 432.5 -420.3726 432.5 -427 L 432.5 -453 C 432.5 -459.6274 437.8726 -465 444.5 -465 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(437.5 -458.448)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.064" y="15">OpenXR </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="15.208" y="33.448">Runtime</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <path d="M 73 -465 L 204.5 -465 C 211.12742 -465 216.5 -459.6274 216.5 -453 L 216.5 -427 C 216.5 -420.3726 211.12742 -415 204.5 -415 L 73 -415 C 66.37258 -415 61 -420.3726 61 -427 L 61 -453 C 61 -459.6274 66.37258 -465 73 -465 Z" fill="white"/>
+        <path d="M 73 -465 L 204.5 -465 C 211.12742 -465 216.5 -459.6274 216.5 -453 L 216.5 -427 C 216.5 -420.3726 211.12742 -415 204.5 -415 L 73 -415 C 66.37258 -415 61 -420.3726 61 -427 L 61 -453 C 61 -459.6274 66.37258 -465 73 -465 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(66 -454.724)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1.318" y="15">OpenXR Trampoline</tspan>
+          <tspan font-family="Courier New" font-size="10" fill="black" x="21.7417" y="26.447998">openxr_loader.dll</tspan>
+        </text>
+      </g>
+      <g id="Line_27">
+        <line x1="-144.5" y1="-440" x2="51.1" y2="-440" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <rect x="-116.89798" y="-472" width="144.42188" height="64" fill="white"/>
+        <path d="M -116.89798 -472 L 27.52389 -472 L 27.52389 -408 L -116.89798 -408 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(-111.89798 -467)" fill="black">
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="13">xrBeginFrame()</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="31">xrEndFrame()</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="49">…</tspan>
+        </text>
+      </g>
+      <g id="Line_34">
+        <line x1="216.5" y1="-440" x2="422.6" y2="-440" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_33">
+        <rect x="250.01926" y="-472" width="144.42188" height="64" fill="white"/>
+        <path d="M 250.01926 -472 L 394.44114 -472 L 394.44114 -408 L 250.01926 -408 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+        <text transform="translate(255.01926 -467)" fill="black">
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="13">xrBeginFrame()</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="31">xrEndFrame()</tspan>
+          <tspan font-family="Courier New" font-size="16" fill="black" x="0" y="49">…</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-310 35 855 706" width="855" height="706">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="IDXGISwapChain__Present_hook" stroke-dasharray="none" fill-opacity="1" stroke-opacity="1" stroke="none" fill="none">
+    <title>IDXGISwapChain::Present hook</title>
+    <rect fill="white" x="-310" y="35" width="855" height="706"/>
+    <g id="IDXGISwapChain__Present_hook_Base">
+      <title>Base</title>
+      <g id="Graphic_2">
+        <path d="M 197.875 36 L 273.875 36 C 280.50242 36 285.875 41.372583 285.875 48 L 285.875 74 C 285.875 80.62742 280.50242 86 273.875 86 L 197.875 86 C 191.24758 86 185.875 80.62742 185.875 74 L 185.875 48 C 185.875 41.372583 191.24758 36 197.875 36 Z" fill="white"/>
+        <path d="M 197.875 36 L 273.875 36 C 280.50242 36 285.875 41.372583 285.875 48 L 285.875 74 C 285.875 80.62742 280.50242 86 273.875 86 L 197.875 86 C 191.24758 86 185.875 80.62742 185.875 74 L 185.875 48 C 185.875 41.372583 191.24758 36 197.875 36 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(190.875 51.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="23.512" y="15">Game</tspan>
+        </text>
+      </g>
+      <g id="Graphic_3">
+        <path d="M -59.125 118.30499 L 532 118.30499 C 538.6274 118.30499 544 123.67758 544 130.305 L 544 469.5 C 544 476.1274 538.6274 481.5 532 481.5 L -59.125 481.5 C -65.75242 481.5 -71.125 476.1274 -71.125 469.5 L -71.125 130.305 C -71.125 123.67758 -65.75242 118.30499 -59.125 118.30499 Z" fill="white"/>
+        <path d="M -59.125 118.30499 L 532 118.30499 C 538.6274 118.30499 544 123.67758 544 130.305 L 544 469.5 C 544 476.1274 538.6274 481.5 532 481.5 L -59.125 481.5 C -65.75242 481.5 -71.125 476.1274 -71.125 469.5 L -71.125 130.305 C -71.125 123.67758 -65.75242 118.30499 -59.125 118.30499 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-66.125 123.305)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="271.4425" y="15">Direct3D</tspan>
+        </text>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 197.875 604 L 273.875 604 C 280.50242 604 285.875 609.3726 285.875 616 L 285.875 642 C 285.875 648.6274 280.50242 654 273.875 654 L 197.875 654 C 191.24758 654 185.875 648.6274 185.875 642 L 185.875 616 C 185.875 609.3726 191.24758 604 197.875 604 Z" fill="white"/>
+        <path d="M 197.875 604 L 273.875 604 C 280.50242 604 285.875 609.3726 285.875 616 L 285.875 642 C 285.875 648.6274 280.50242 654 273.875 654 L 197.875 654 C 191.24758 654 185.875 648.6274 185.875 642 L 185.875 616 C 185.875 609.3726 191.24758 604 197.875 604 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(190.875 619.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="27.968" y="15">GPU</tspan>
+        </text>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 197.875 518 L 273.875 518 C 280.50242 518 285.875 523.3726 285.875 530 L 285.875 556 C 285.875 562.6274 280.50242 568 273.875 568 L 197.875 568 C 191.24758 568 185.875 562.6274 185.875 556 L 185.875 530 C 185.875 523.3726 191.24758 518 197.875 518 Z" fill="white"/>
+        <path d="M 197.875 518 L 273.875 518 C 280.50242 518 285.875 523.3726 285.875 530 L 285.875 556 C 285.875 562.6274 280.50242 568 273.875 568 L 197.875 568 C 191.24758 568 185.875 562.6274 185.875 556 L 185.875 530 C 185.875 523.3726 191.24758 518 197.875 518 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(190.875 533.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="4.712" y="15">GPU Driver</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 197.875 690 L 273.875 690 C 280.50242 690 285.875 695.3726 285.875 702 L 285.875 728 C 285.875 734.6274 280.50242 740 273.875 740 L 197.875 740 C 191.24758 740 185.875 734.6274 185.875 728 L 185.875 702 C 185.875 695.3726 191.24758 690 197.875 690 Z" fill="white"/>
+        <path d="M 197.875 690 L 273.875 690 C 280.50242 690 285.875 695.3726 285.875 702 L 285.875 728 C 285.875 734.6274 280.50242 740 273.875 740 L 197.875 740 C 191.24758 740 185.875 734.6274 185.875 728 L 185.875 702 C 185.875 695.3726 191.24758 690 197.875 690 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(190.875 705.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="17.44" y="15">Monitor</tspan>
+        </text>
+      </g>
+      <g id="Line_7">
+        <line x1="235.93386" y1="86" x2="235.98662" y2="108.40502" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_9">
+        <line x1="235.875" y1="654" x2="235.875" y2="680.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_12">
+        <line x1="235.875" y1="568" x2="235.875" y2="594.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_13">
+        <line x1="236.0173" y1="481.5" x2="235.95575" y2="508.1" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="IDXGISwapChain__Present_hook_D3D">
+      <title>D3D</title>
+      <g id="Group_54">
+        <g id="Graphic_14">
+          <path d="M -44.5 146.805 L 169.5 146.805 C 176.12742 146.805 181.5 152.17758 181.5 158.805 L 181.5 405.305 C 181.5 411.9324 176.12742 417.305 169.5 417.305 L -44.5 417.305 C -51.12742 417.305 -56.5 411.9324 -56.5 405.305 L -56.5 158.805 C -56.5 152.17758 -51.12742 146.805 -44.5 146.805 Z" fill="white"/>
+          <path d="M -44.5 146.805 L 169.5 146.805 C 176.12742 146.805 181.5 152.17758 181.5 158.805 L 181.5 405.305 C 181.5 411.9324 176.12742 417.305 169.5 417.305 L -44.5 417.305 C -51.12742 417.305 -56.5 411.9324 -56.5 405.305 L -56.5 158.805 C -56.5 152.17758 -51.12742 146.805 -44.5 146.805 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-51.5 151.805)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="16.376" y="15">IDXGISwapChain::Present()</tspan>
+          </text>
+        </g>
+        <g id="Graphic_15">
+          <path d="M -295.25 309.5 L -116.25 309.5 C -109.62258 309.5 -104.25 314.8726 -104.25 321.5 L -104.25 369 C -104.25 375.6274 -109.62258 381 -116.25 381 L -295.25 381 C -301.8774 381 -307.25 375.6274 -307.25 369 L -307.25 321.5 C -307.25 314.8726 -301.8774 309.5 -295.25 309.5 Z" fill="white"/>
+          <path d="M -295.25 309.5 L -116.25 309.5 C -109.62258 309.5 -104.25 314.8726 -104.25 321.5 L -104.25 369 C -104.25 375.6274 -109.62258 381 -116.25 381 L -295.25 381 C -301.8774 381 -307.25 375.6274 -307.25 369 L -307.25 321.5 C -307.25 314.8726 -301.8774 309.5 -295.25 309.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-302.25 336.026)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="19.292" y="15">Overlay DLL Function</tspan>
+          </text>
+        </g>
+        <g id="Graphic_16">
+          <path d="M -297.5 414.5 L -114 414.5 C -107.37258 414.5 -102 419.8726 -102 426.5 L -102 474 C -102 480.6274 -107.37258 486 -114 486 L -297.5 486 C -304.1274 486 -309.5 480.6274 -309.5 474 L -309.5 426.5 C -309.5 419.8726 -304.1274 414.5 -297.5 414.5 Z" fill="white"/>
+          <path d="M -297.5 414.5 L -114 414.5 C -107.37258 414.5 -102 419.8726 -102 426.5 L -102 474 C -102 480.6274 -107.37258 486 -114 486 L -297.5 486 C -304.1274 486 -309.5 480.6274 -309.5 474 L -309.5 426.5 C -309.5 419.8726 -304.1274 414.5 -297.5 414.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-304.5 431.802)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="20.958" y="15">Modified beginning of </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="1.126" y="33.448">IDXGISwapChain::Present()</tspan>
+          </text>
+        </g>
+        <g id="Line_18">
+          <line x1="-205.75" y1="381" x2="-205.75" y2="404.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_20">
+          <path d="M -3.5 187.805 L 128.5 187.805 C 135.12742 187.805 140.5 193.17758 140.5 199.805 L 140.5 247.305 C 140.5 253.9324 135.12742 259.305 128.5 259.305 L -3.5 259.305 C -10.127417 259.305 -15.5 253.9324 -15.5 247.305 L -15.5 199.805 C -15.5 193.17758 -10.127417 187.805 -3.5 187.805 Z" fill="white"/>
+          <path d="M -3.5 187.805 L 128.5 187.805 C 135.12742 187.805 140.5 193.17758 140.5 199.805 L 140.5 247.305 C 140.5 253.9324 135.12742 259.305 128.5 259.305 L -3.5 259.305 C -10.127417 259.305 -15.5 253.9324 -15.5 247.305 L -15.5 199.805 C -15.5 193.17758 -10.127417 187.805 -3.5 187.805 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-10.5 205.107)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="4.12" y="15">Rewritten start: call </tspan>
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="29.136" y="33.448">Overlay DLL</tspan>
+          </text>
+        </g>
+        <g id="Graphic_22">
+          <path d="M -27 329.055 L 152 329.055 C 158.62742 329.055 164 334.42758 164 341.055 L 164 388.555 C 164 395.1824 158.62742 400.555 152 400.555 L -27 400.555 C -33.627417 400.555 -39 395.1824 -39 388.555 L -39 341.055 C -39 334.42758 -33.627417 329.055 -27 329.055 Z" fill="white"/>
+          <path d="M -27 329.055 L 152 329.055 C 158.62742 329.055 164 334.42758 164 341.055 L 164 388.555 C 164 395.1824 158.62742 400.555 152 400.555 L -27 400.555 C -33.627417 400.555 -39 395.1824 -39 388.555 L -39 341.055 C -39 334.42758 -33.627417 329.055 -27 329.055 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+          <text transform="translate(-34 355.581)" fill="black">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="42.564" y="15">Original ending</tspan>
+          </text>
+        </g>
+        <g id="Line_28">
+          <path d="M 62.5 259.305 L 62.5 285.8889 L -206 285.8889 L -205.94226 299.6001" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Line_29">
+          <path d="M -205.75 486 L -205.75 510 L -90 510 L -90 309.5 L 62 309.5 L 62.08729 319.1554" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+      <g id="Group_39">
+        <g id="Graphic_32">
+          <title>Rectangle</title>
+          <path d="M 211 146.805 L 287 146.805 C 293.6274 146.805 299 152.17758 299 158.805 L 299 184.805 C 299 191.4324 293.6274 196.805 287 196.805 L 211 196.805 C 204.37258 196.805 199 191.4324 199 184.805 L 199 158.805 C 199 152.17758 204.37258 146.805 211 146.805 Z" fill="white"/>
+          <path d="M 211 146.805 L 287 146.805 C 293.6274 146.805 299 152.17758 299 158.805 L 299 184.805 C 299 191.4324 293.6274 196.805 287 196.805 L 211 196.805 C 204.37258 196.805 199 191.4324 199 184.805 L 199 158.805 C 199 152.17758 204.37258 146.805 211 146.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(204 162.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_33">
+          <title>Rectangle</title>
+          <path d="M 211 214.305 L 287 214.305 C 293.6274 214.305 299 219.67758 299 226.305 L 299 252.305 C 299 258.9324 293.6274 264.305 287 264.305 L 211 264.305 C 204.37258 264.305 199 258.9324 199 252.305 L 199 226.305 C 199 219.67758 204.37258 214.305 211 214.305 Z" fill="white"/>
+          <path d="M 211 214.305 L 287 214.305 C 293.6274 214.305 299 219.67758 299 226.305 L 299 252.305 C 299 258.9324 293.6274 264.305 287 264.305 L 211 264.305 C 204.37258 264.305 199 258.9324 199 252.305 L 199 226.305 C 199 219.67758 204.37258 214.305 211 214.305 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(204 230.081)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_35">
+          <title>Rectangle</title>
+          <path d="M 211 281.805 L 287 281.805 C 293.6274 281.805 299 287.17758 299 293.805 L 299 319.805 C 299 326.4324 293.6274 331.805 287 331.805 L 211 331.805 C 204.37258 331.805 199 326.4324 199 319.805 L 199 293.805 C 199 287.17758 204.37258 281.805 211 281.805 Z" fill="white"/>
+          <path d="M 211 281.805 L 287 281.805 C 293.6274 281.805 299 287.17758 299 293.805 L 299 319.805 C 299 326.4324 293.6274 331.805 287 331.805 L 211 331.805 C 204.37258 331.805 199 326.4324 199 319.805 L 199 293.805 C 199 287.17758 204.37258 281.805 211 281.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(204 297.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_36">
+          <title>Rectangle</title>
+          <path d="M 211 349.305 L 287 349.305 C 293.6274 349.305 299 354.67758 299 361.305 L 299 387.305 C 299 393.9324 293.6274 399.305 287 399.305 L 211 399.305 C 204.37258 399.305 199 393.9324 199 387.305 L 199 361.305 C 199 354.67758 204.37258 349.305 211 349.305 Z" fill="white"/>
+          <path d="M 211 349.305 L 287 349.305 C 293.6274 349.305 299 354.67758 299 361.305 L 299 387.305 C 299 393.9324 293.6274 399.305 287 399.305 L 211 399.305 C 204.37258 399.305 199 393.9324 199 387.305 L 199 361.305 C 199 354.67758 204.37258 349.305 211 349.305 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(204 365.081)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_37">
+          <title>Rectangle</title>
+          <path d="M 211 416.805 L 287 416.805 C 293.6274 416.805 299 422.1776 299 428.805 L 299 454.805 C 299 461.4324 293.6274 466.805 287 466.805 L 211 466.805 C 204.37258 466.805 199 461.4324 199 454.805 L 199 428.805 C 199 422.1776 204.37258 416.805 211 416.805 Z" fill="white"/>
+          <path d="M 211 416.805 L 287 416.805 C 293.6274 416.805 299 422.1776 299 428.805 L 299 454.805 C 299 461.4324 293.6274 466.805 287 466.805 L 211 466.805 C 204.37258 466.805 199 461.4324 199 454.805 L 199 428.805 C 199 422.1776 204.37258 416.805 211 416.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(204 432.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_42">
+        <g id="Graphic_47">
+          <title>Rectangle</title>
+          <path d="M 328.5 146.805 L 404.5 146.805 C 411.1274 146.805 416.5 152.17758 416.5 158.805 L 416.5 184.805 C 416.5 191.4324 411.1274 196.805 404.5 196.805 L 328.5 196.805 C 321.8726 196.805 316.5 191.4324 316.5 184.805 L 316.5 158.805 C 316.5 152.17758 321.8726 146.805 328.5 146.805 Z" fill="white"/>
+          <path d="M 328.5 146.805 L 404.5 146.805 C 411.1274 146.805 416.5 152.17758 416.5 158.805 L 416.5 184.805 C 416.5 191.4324 411.1274 196.805 404.5 196.805 L 328.5 196.805 C 321.8726 196.805 316.5 191.4324 316.5 184.805 L 316.5 158.805 C 316.5 152.17758 321.8726 146.805 328.5 146.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(321.5 162.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_46">
+          <title>Rectangle</title>
+          <path d="M 328.5 214.305 L 404.5 214.305 C 411.1274 214.305 416.5 219.67758 416.5 226.305 L 416.5 252.305 C 416.5 258.9324 411.1274 264.305 404.5 264.305 L 328.5 264.305 C 321.8726 264.305 316.5 258.9324 316.5 252.305 L 316.5 226.305 C 316.5 219.67758 321.8726 214.305 328.5 214.305 Z" fill="white"/>
+          <path d="M 328.5 214.305 L 404.5 214.305 C 411.1274 214.305 416.5 219.67758 416.5 226.305 L 416.5 252.305 C 416.5 258.9324 411.1274 264.305 404.5 264.305 L 328.5 264.305 C 321.8726 264.305 316.5 258.9324 316.5 252.305 L 316.5 226.305 C 316.5 219.67758 321.8726 214.305 328.5 214.305 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(321.5 230.081)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_45">
+          <title>Rectangle</title>
+          <path d="M 328.5 281.805 L 404.5 281.805 C 411.1274 281.805 416.5 287.17758 416.5 293.805 L 416.5 319.805 C 416.5 326.4324 411.1274 331.805 404.5 331.805 L 328.5 331.805 C 321.8726 331.805 316.5 326.4324 316.5 319.805 L 316.5 293.805 C 316.5 287.17758 321.8726 281.805 328.5 281.805 Z" fill="white"/>
+          <path d="M 328.5 281.805 L 404.5 281.805 C 411.1274 281.805 416.5 287.17758 416.5 293.805 L 416.5 319.805 C 416.5 326.4324 411.1274 331.805 404.5 331.805 L 328.5 331.805 C 321.8726 331.805 316.5 326.4324 316.5 319.805 L 316.5 293.805 C 316.5 287.17758 321.8726 281.805 328.5 281.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(321.5 297.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_44">
+          <title>Rectangle</title>
+          <path d="M 328.5 349.305 L 404.5 349.305 C 411.1274 349.305 416.5 354.67758 416.5 361.305 L 416.5 387.305 C 416.5 393.9324 411.1274 399.305 404.5 399.305 L 328.5 399.305 C 321.8726 399.305 316.5 393.9324 316.5 387.305 L 316.5 361.305 C 316.5 354.67758 321.8726 349.305 328.5 349.305 Z" fill="white"/>
+          <path d="M 328.5 349.305 L 404.5 349.305 C 411.1274 349.305 416.5 354.67758 416.5 361.305 L 416.5 387.305 C 416.5 393.9324 411.1274 399.305 404.5 399.305 L 328.5 399.305 C 321.8726 399.305 316.5 393.9324 316.5 387.305 L 316.5 361.305 C 316.5 354.67758 321.8726 349.305 328.5 349.305 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(321.5 365.081)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_43">
+          <title>Rectangle</title>
+          <path d="M 328.5 416.805 L 404.5 416.805 C 411.1274 416.805 416.5 422.1776 416.5 428.805 L 416.5 454.805 C 416.5 461.4324 411.1274 466.805 404.5 466.805 L 328.5 466.805 C 321.8726 466.805 316.5 461.4324 316.5 454.805 L 316.5 428.805 C 316.5 422.1776 321.8726 416.805 328.5 416.805 Z" fill="white"/>
+          <path d="M 328.5 416.805 L 404.5 416.805 C 411.1274 416.805 416.5 422.1776 416.5 428.805 L 416.5 454.805 C 416.5 461.4324 411.1274 466.805 404.5 466.805 L 328.5 466.805 C 321.8726 466.805 316.5 461.4324 316.5 454.805 L 316.5 428.805 C 316.5 422.1776 321.8726 416.805 328.5 416.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(321.5 432.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_48">
+        <g id="Graphic_53">
+          <title>Rectangle</title>
+          <path d="M 446 146.805 L 522 146.805 C 528.6274 146.805 534 152.17758 534 158.805 L 534 184.805 C 534 191.4324 528.6274 196.805 522 196.805 L 446 196.805 C 439.3726 196.805 434 191.4324 434 184.805 L 434 158.805 C 434 152.17758 439.3726 146.805 446 146.805 Z" fill="white"/>
+          <path d="M 446 146.805 L 522 146.805 C 528.6274 146.805 534 152.17758 534 158.805 L 534 184.805 C 534 191.4324 528.6274 196.805 522 196.805 L 446 196.805 C 439.3726 196.805 434 191.4324 434 184.805 L 434 158.805 C 434 152.17758 439.3726 146.805 446 146.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(439 162.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_52">
+          <title>Rectangle</title>
+          <path d="M 446 214.305 L 522 214.305 C 528.6274 214.305 534 219.67758 534 226.305 L 534 252.305 C 534 258.9324 528.6274 264.305 522 264.305 L 446 264.305 C 439.3726 264.305 434 258.9324 434 252.305 L 434 226.305 C 434 219.67758 439.3726 214.305 446 214.305 Z" fill="white"/>
+          <path d="M 446 214.305 L 522 214.305 C 528.6274 214.305 534 219.67758 534 226.305 L 534 252.305 C 534 258.9324 528.6274 264.305 522 264.305 L 446 264.305 C 439.3726 264.305 434 258.9324 434 252.305 L 434 226.305 C 434 219.67758 439.3726 214.305 446 214.305 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(439 230.081)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_51">
+          <title>Rectangle</title>
+          <path d="M 446 281.805 L 522 281.805 C 528.6274 281.805 534 287.17758 534 293.805 L 534 319.805 C 534 326.4324 528.6274 331.805 522 331.805 L 446 331.805 C 439.3726 331.805 434 326.4324 434 319.805 L 434 293.805 C 434 287.17758 439.3726 281.805 446 281.805 Z" fill="white"/>
+          <path d="M 446 281.805 L 522 281.805 C 528.6274 281.805 534 287.17758 534 293.805 L 534 319.805 C 534 326.4324 528.6274 331.805 522 331.805 L 446 331.805 C 439.3726 331.805 434 326.4324 434 319.805 L 434 293.805 C 434 287.17758 439.3726 281.805 446 281.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(439 297.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_50">
+          <title>Rectangle</title>
+          <path d="M 446 349.305 L 522 349.305 C 528.6274 349.305 534 354.67758 534 361.305 L 534 387.305 C 534 393.9324 528.6274 399.305 522 399.305 L 446 399.305 C 439.3726 399.305 434 393.9324 434 387.305 L 434 361.305 C 434 354.67758 439.3726 349.305 446 349.305 Z" fill="white"/>
+          <path d="M 446 349.305 L 522 349.305 C 528.6274 349.305 534 354.67758 534 361.305 L 534 387.305 C 534 393.9324 528.6274 399.305 522 399.305 L 446 399.305 C 439.3726 399.305 434 393.9324 434 387.305 L 434 361.305 C 434 354.67758 439.3726 349.305 446 349.305 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(439 365.081)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+        <g id="Graphic_49">
+          <title>Rectangle</title>
+          <path d="M 446 416.805 L 522 416.805 C 528.6274 416.805 534 422.1776 534 428.805 L 534 454.805 C 534 461.4324 528.6274 466.805 522 466.805 L 446 466.805 C 439.3726 466.805 434 461.4324 434 454.805 L 434 428.805 C 434 422.1776 439.3726 416.805 446 416.805 Z" fill="white"/>
+          <path d="M 446 416.805 L 522 416.805 C 528.6274 416.805 534 422.1776 534 428.805 L 534 454.805 C 534 461.4324 528.6274 466.805 522 466.805 L 446 466.805 C 439.3726 466.805 434 461.4324 434 454.805 L 434 428.805 C 434 422.1776 439.3726 416.805 446 416.805 Z" stroke="#666" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+          <text transform="translate(439 432.581)" fill="#666">
+            <tspan font-family="Helvetica Neue" font-size="16" fill="#666" x="37" y="15">…</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
