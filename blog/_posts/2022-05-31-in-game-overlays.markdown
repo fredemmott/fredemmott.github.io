@@ -314,9 +314,9 @@ with the non-VR Steam overlay - and made it a built-in feature of SteamVR/OpenVR
 
 ![The game and overlay are separate processes, independently talking to SteamVR via OpenVR](/assets/images/2022-05-overlays/steamvr.svg)
 
-There is no need for the overlay to interfere with the game - the game and the overlay app are separate processes,
-independently communicating with SteamVR via OpenVR; SteamVR is responsible for setting up the layers,
-coordinating input, and so on. SteamVR will also manage translating between Direct3D 11, 12, OpenGL etc as needed.
+There is no need for the overlay to interfere with the game: the game and the overlay app are separate processes,
+independently communicating with SteamVR via OpenVR. SteamVR is responsible for setting up the layers,
+coordinating input, and so on; SteamVR will also manage translating between Direct3D 11, 12, OpenGL etc as needed.
 
 ### Problems with OpenVR/SteamVR overlays
 
