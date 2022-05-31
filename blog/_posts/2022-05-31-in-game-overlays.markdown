@@ -148,14 +148,16 @@ Now you need to make it so that when the game tries to use `IDXGISwapChain::Pres
 code instead. If you're modifying the game exe on disk or doing something game-specific in memory, it might be
 easiest to find and directly change the call sites in the exe. If you don't want to do that, or if your code is
 running in a DLL in an unmodified game, you can
-instead change `IDXGISwapChain::Present()` to call your code. This again has subproblems:
+instead change `IDXGISwapChain::Present()` to call your code - rewriting the native code in memory while the
+app is running. This again has subproblems:
 
 1. Find the address of `IDXGISwapChain::Present()`
 2. Figure out how to change the start of it to call your code
 3. Figure out how to call the original code; you're going to have to overwrite some of it with the code to call
    your function, so, you'll need to copy the original code somewhere else, modify it, and jump back to the
    remainder
-4. Replace the start of the original function with your code from step 2
+4. Replace the start of the original function with your code from step 2 - while fixing any threads that were
+   in the middle of executing the original code while you swapped it out
 
 Your code will usually do its own thing (e.g. drawing your overlay on to the swap chain's active buffer), then
 after doing some modifications go back to the original `IDXGISwapChain::Present()` code:
