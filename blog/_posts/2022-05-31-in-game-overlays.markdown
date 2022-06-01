@@ -1,4 +1,4 @@
----
+though ---
 layout: post
 title:  "In-Game Overlays: How They Work"
 date: 2022-05-31 18:12:00 -0500
@@ -116,7 +116,7 @@ I prefer the `CreateRemoteThread()` approach as it targets a process, rather tha
 but in addition to the usual challenges of multithreaded code, it is also often useful to run code in
 the thread that owns the window.
 
-`SetWindowsHookEx()` isn't a universal problem for those solutions either though - you may need to handle
+`SetWindowsHookEx()` isn't a universal solution for these problems though - you may need to handle
 the case that a thread was created for a splash screen or other temporary window and no longer exists - or
 may simply be the wrong thread/window for the game itself. Those problems can be mitigated by hooking all
 threads in the system, but this increases the risk of unintended side effects or false positives from
@@ -167,7 +167,7 @@ after doing some modifications go back to the original `IDXGISwapChain::Present(
 #### Finding the address
 
 Finding the address of a public C-ABI function in a DLL is easy via `GetProcAddress()`; C++ can be much more
-complicated, but in this case, we can take advantage of the fact and `IDXGISwapChain` is a COM interface,
+complicated, but in this case, we can take advantage of the fact that `IDXGISwapChain` is a COM interface,
 so we can retrieve the address of the implementation via the COM C API:
 
 ```C
@@ -201,7 +201,7 @@ Fortunately, this is a common enough problem that there are convenient libraries
 * Microsoft [Detours]
 * [MinHook]
 
-Previously, Detours's free version was severely limited - however it is now entirely open source, incluing x64 support. These libraries do the vast majority of the heavy lifting of rewriting the functions, and a library is practically essential for doing this kind of work in a reliable way.
+Previously, Detours's free version was severely limited - however it is now entirely open source, including x64 support. These libraries do the vast majority of the heavy lifting of rewriting the functions, and a library is practically essential for doing this kind of work in a reliable way.
 
 ### Problems
 
@@ -288,20 +288,21 @@ anti-cheat issues. There's also a few extra quirks to keep in mind:
 #### Layer limit
 
 The Oculus API has a fixed limit on the number of layers: this limits the number of overlays you can use, which
-can vary by game, and by state: it's possible that pausing the game will add an extra layer, so pausing the game
-might hide your overlay. dditionally, some games - like the Oculus World Demo in the SDK - give a list of layers
-that is already the maximum size.
+can vary by game, and by state: it's possible that pausing the game will add an extra layer with a pause menu,
+so pausing the game might hide your overlay. Additionally, some games - like the Oculus World Demo in the SDK -
+give a list of layers that is already the maximum size.
 
-In these cases, it's likely that not all of the entries are in use; in particular, entries in the list can be a
-`nullptr`, in which case they have no effect, so you can simply remove them from the list, making space for your
-own layer to be appended.
+In these cases, it's likely that not all of the entries are in use; for example, they might always reserve
+layer 2 for a HUD, layer 3 for a pause menu etc, even if the HUD is disabled in options and the game isn't paused.
+In these cases, the entries in the layer list are usually a `nullptr`, which means the layer has no no effect,
+so you can simply remove these layers from the list, making space for your own layer to be appended.
 
 #### Interaction with depth data
 
 When games provide the main 'world view' layer, they can provide depth information along with the RGBA (color)
 data for each pixel; this is required for some of the framerate-compensation technologies like [ASW 2.0], but
-also interacts with the other layers in the list - later layers appea not to be rendered if the depth data from
-another layer says they will not be visible because they're behind the other layer in 3D space.
+also interacts with the other layers in the list - later layers are not visible if the depth data from another
+layer says they will not be visible because they're behind the other layer in 3D space.
 
 Some games appear to provide incorrect depth data which completely disables all overlays - even the
 Oculus Debug Tool performance HUDs. This can be fixed by replacing any layers with `ovrLayerType_EyeFovDepth`
@@ -311,7 +312,7 @@ incorrect.
 
 ## Overlays with SteamVR
 
-This is where things get better: Valve saw the need for third-party overlays -perhaps due to their experience
+This is where things get better: Valve saw the need for third-party overlays - perhaps due to their experience
 with the non-VR Steam overlay - and made it a built-in feature of SteamVR/OpenVR:
 
 ![The game and overlay are separate processes, independently talking to SteamVR via OpenVR](/assets/images/2022-05-overlays/steamvr.svg)
@@ -322,7 +323,7 @@ coordinating input, and so on; SteamVR will also manage translating between Dire
 
 ### Problems with OpenVR/SteamVR overlays
 
-While the presence of an overlay API is a huge improvement and the APIs themselves seem fine, there are some
+While a multi-process overlay API is a huge improvement and the APIs themselves seem fine, there are some
 long-standing issues in the implementation that overlay developers should be aware of:
 
 #### Use `vr::TextureType_DXGISharedHandle`
@@ -389,15 +390,15 @@ instead, such as [DirectXTK]'s [SimpleMath]:
   their headsets
 
 If you're supporting any flow where your code is running in someone else's process (every flow here except for
-SteamVR or XR_EXTX_Overlay) , I strongly recommend using native code - like C++ - instead of something that
+SteamVR or XR_EXTX_Overlay), I strongly recommend using native code - like C++ - instead of something that
 will also load the .NET runtime into the game's process. 
 
 More generally, if you have a DLL that is loaded into another process (including via the OpenXR loader), I
 recommend doing as little as possible in that DLL: if you have bugs, it is usually much better for those bugs
 to take down a separate overlay application than the game. For example, [OpenKneeboard] does the vast majority
 of the work in the `OpenKneeboardApp.exe` process, but creates shared memory and shared textures to communicate
-with the DLL; the DLLs do the bare minimum - they install the hooks (if needed), set up the layers, and copy the
-textures:
+with the DLL, and is responsible for filling those shared textures with the desired overlay. The DLLs do the
+bare minimum: they install the hooks (if needed), set up the layers, and copy the textures:
 
 ![OpenKneeboard's OpenXR layer runs in the game process, but displays information from the OpenKneeboard process](/assets/images/2022-05-overlays/openxr-openkneeboard.svg)
 
