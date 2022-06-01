@@ -150,16 +150,6 @@ While this looks like the same number of layers,
 translating between APIs can be relatively easy for your CPU/GPU compared to SteamVR; that said, while most users
 of OpenComposite+OpenXR report higher or more consistent framerates, this is not universal.
 
-### Should Quest/Rift owners use OpenComposite+OpenXR?
-
-If a game supports the Oculus API directly, probably not - unless you want to use other OpenXR software with that game such as [OpenXR Toolkit]. Similarly, if you have a Varjo headset and the game directly supports Varjo, or
-a WMR headset and the game directly supports WMR/Windows holographic, probably not. In these cases, OpenComposite
-adds steps, instead of removing them:
-
-![Replaces 'Oculus API' with OpenVR -> OpenComposite -> OpenXR](/assets/images/2022-05-vr/opencomposite-oculus.svg)
-
-*Based on [a chart](/assets/images/2022-05-vr/mbucchia-chart.png) by [Matthieu Bucchianeri]*
-
 ## Runtimes and Compositors
 
 Runtimes provide 'platform' features such as safety bounds (e.g. 'guardian' and 'chaperone'), system menus, preferences, and 'home environments'; if multiple VR games or apps are running, they also decide which is active at a given time, is affected by controller buttons, etc.
@@ -199,6 +189,16 @@ Windows Mixed Reality for SteamVR needs separate installation. This isn't an 'ex
 other SteamVR-compatible headsets, just a matter of how they chose to package and distribute it.
 
 ## Common Questions
+
+### Should Quest/Rift owners use OpenComposite+OpenXR?
+
+If a game supports the Oculus API directly, probably not - unless you want to use other OpenXR software with that game such as [OpenXR Toolkit]. Similarly, if you have a Varjo headset and the game directly supports Varjo, or
+a WMR headset and the game directly supports WMR/Windows holographic, probably not. In these cases, OpenComposite
+adds steps, instead of removing them:
+
+![Replaces 'Oculus API' with OpenVR -> OpenComposite -> OpenXR](/assets/images/2022-05-vr/opencomposite-oculus.svg)
+
+*Based on [a chart](/assets/images/2022-05-vr/mbucchia-chart.png) by [Matthieu Bucchianeri]*
 
 ### OpenVR vs OpenXR vs OpenComposite vs Compositors
 
