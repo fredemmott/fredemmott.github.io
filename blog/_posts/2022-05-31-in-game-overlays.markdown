@@ -348,12 +348,18 @@ OpenKneeboard only calls `VR_Init()` if SteamVR's `vrmonitor.exe` is running.
 
 ## OpenXR
 
-[XR_EXTX_overlay] is a provisional extension to OpenXR which would allow separate overlay applications in a very
-similar way to SteamVR, however it's not yet widely available. While OpenXR does not currently have a fully
-supported overlay API, it does provide a much more flexible system: [API layers].
+> **Edited 2023-04-02:** striked out references to XR_EXTX_overlay
+>
+> [XR_EXTX_overlay] proposed adding an overlay API to OpenXR;  this appears to be a dead end, and I strongly
+> recommend creating an API layer instead:
+> - there is practically no visible multi-vendor interest in adoption, or addressing unresolved design issues/missing features
+> - the test implementation was never intended for end users, has no end-user support, and development has been inactive since 2021
 
-API layers provide a supported way to insert DLLs wrapping any OpenXR functionality, and there is even
-[a test implementation of XR_EXTX_overlay as a layer](https://github.com/LunarG/OpenXR-OverlayLayer). In the
+~~[XR_EXTX_overlay] is a provisional extension to OpenXR which would allow separate overlay applications in a very
+similar way to SteamVR, however it's not yet widely available.~~ While OpenXR does not ~~currently~~ have an ~~fully
+supported~~ overlay API, it does provide a much more flexible system: [API layers].
+API layers provide a supported way to insert DLLs wrapping any OpenXR functionality~~, and there is even
+[a test implementation of XR_EXTX_overlay as a layer](https://github.com/LunarG/OpenXR-OverlayLayer)~~. In the
 case of overlays, our goals are very similar to when hooking the Oculus API: we want a Direct3D device which we
 can get by intercepting `xrCreateSession()`, and we want to add a layer by intercepting `xrEndFrame()`. The key
 improvement is that by design it will load our DLLs without unsupported hacks, and we do not need to use Detours
