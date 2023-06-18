@@ -150,6 +150,8 @@ While this looks like the same number of layers,
 translating between APIs can be relatively easy for your CPU/GPU compared to SteamVR; that said, while most users
 of OpenComposite+OpenXR report higher or more consistent framerates, this is not universal.
 
+**Edited on 2023-06-18:** OpenComposite is now primarily used with OpenXR; support for translating to the Oculus API has been deprecated.
+
 ## Runtimes and Compositors
 
 Runtimes provide 'platform' features such as safety bounds (e.g. 'guardian' and 'chaperone'), system menus, preferences, and 'home environments'; if multiple VR games or apps are running, they also decide which is active at a given time, is affected by controller buttons, etc.
@@ -239,6 +241,8 @@ These API layers are usually not needed for the game to work, but you might inst
 some extra features or options.
 
 ### DCS World and OpenXR
+
+**Edited 2023-06-18:** This post was originally written in early 2022; since then, DCS has gained native support for OpenXR.
 
 DCS World does not support OpenXR - however, it does support:
 
