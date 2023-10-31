@@ -381,7 +381,7 @@ There can also be multiple layers, which are also all transparent to the game an
 ![Chaining two overlays together](/assets/images/2022-05-overlays/openxr-multiple-layers.svg)
 
 While I've used two layers that both intercept `xrEndFrame()` for this example, it could be any OpenXR function,
-or they could intercept different OpenXR functions. DLL injection and Detours, you are unable to install a new
+or they could intercept different OpenXR functions. Unlike DLL injection and Detours, you are unable to install a new
 API layer into a game that is already running - but, it's reasonable to have your DLL always be active, as long as
 it is designed to have near-zero overhead when inactive.
 
