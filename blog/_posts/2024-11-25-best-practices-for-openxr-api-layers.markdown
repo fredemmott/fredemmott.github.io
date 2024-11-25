@@ -15,6 +15,8 @@ This post is intended for developers of OpenXR API layers, but also contains som
 
 Most of the advice in this post can only be applied by OpenXR *developers*, not end-users.
 
+This post is based on my experience developing [OpenKneeboard](https://openkneeboard.com) and [HTCC](https://htcc.fredemmott.com), and investigating interactions between these layers and layers from other vendors.
+
 ## Don't use API layers if you can avoid it
 
 OpenXR API layers exist in between the game and the runtime, can modify the behavior of any OpenXR function call, or implement extensions implementing additional functions. However, layers bring their own set of complications such as:
