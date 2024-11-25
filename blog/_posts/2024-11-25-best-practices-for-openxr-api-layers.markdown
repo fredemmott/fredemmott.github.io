@@ -1,4 +1,9 @@
-# Best Practices for OpenXR API Layers
+---
+layout: post
+title: "Best Practices for OpenXR API Layers"
+date: 2024-11-25 07:59:00 -0500
+tags: [VR, OpenXR]
+---
 
 There are several re-occurring problems for OpenXR API layers on Windows, and best practices have evolved to address them; these problems are mostly caused by implementation decisions of other software in the ecosystem, so largely out of scope of the OpenXR specification - however, they still need to be addressed in order for your software to work well on a broad variety of end user systems.
 
@@ -36,14 +41,12 @@ The order of OpenXR API layers is important; for example:
 - `XR_APILAYER_FREDEMMOTT_HandTrackedCockpitClicking` *uses* `XR_EXT_handtracking`
 - `XR_APILAYER_ULTRALEAP_hand_tracking` *implements* `XR_EXT_handtracking`
 
-So, if an add-on Ultraleap hand tracker is being used, `XR_APILAYER_FREDEMMOTT_HandTrackedCockpitClicking` depends on `XR_APILAYER_ULTRALEAP_hand_tracking`, so the ordering chain needs to be:
+So, if an add-on Ultraleap hand tracker is being used, `XR_APILAYER_FREDEMMOTT_HandTrackedCockpitClicking` depends on `XR_APILAYER_ULTRALEAP_hand_tracking`, so the ordering needs to be:
 
-```mermaid
-graph TD;
-  Game(Game) --> HTCC(XR_APILAYER_FREDEMMOTT_HandTrackedCockpitClicking);
-  HTCC --> UL(XR_APILAYER_ULTRALEAP_hand_tracking);
-  UL --> Runtime(OpenXR Runtime);
-```
+1. Game
+2. `XR_APILAYER_FREDEMMOTT_HandTrackedCockpitClicking`
+3. `XR_APILAYER_ULTRALEAP_hand_tracking`
+4. The active OpenXR Runtime
 
 Ordering can only be controlled within a single registry hive - so, if layer A is in HKLM but layer B is in HKCU, the relative ordering of A and B can not be controlled. As the ordering frequently *needs* to be configurable, layers should aim to be installed in the same registry hive.
 

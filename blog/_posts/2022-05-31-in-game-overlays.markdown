@@ -2,7 +2,7 @@
 layout: post
 title:  "In-Game Overlays: How They Work"
 date: 2022-05-31 18:12:00 -0500
-tags: VR overlays graphics
+tags: [VR, OpenXR, overlays, graphics]
 ---
 
 This post aims to give developers a high-level understanding of how in-game overlays work in a variety of

@@ -2,7 +2,7 @@
 layout: post
 title:  "An Overview of VR Software Components"
 date: 2022-05-29 11:54:00 -0500
-tags: VR
+tags: [VR]
 ---
 
 The VR software stack has many user-visible components, and increasing interest
