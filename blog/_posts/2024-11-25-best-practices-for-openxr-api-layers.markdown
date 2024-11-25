@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Practices for OpenXR API Layers"
+title: "Best Practices for OpenXR API Layers on Windows"
 date: 2024-11-25 07:59:00 -0500
 tags: [VR, OpenXR]
 ---
